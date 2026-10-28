@@ -1,0 +1,1385 @@
+pokemon,pokemonKo,ability,tier,hp,defense,spDefense,physical,special
+Garchomp,한카리아스,Rough Skin,none,183,115,105,51204,46751
+Garchomp,한카리아스,Rough Skin,H32,215,115,105,60158,54927
+Garchomp,한카리아스,Rough Skin,HB32,215,161,105,84221,54927
+Garchomp,한카리아스,Rough Skin,HD32,215,115,150,60158,78467
+Mega Garchomp,메가한카리아스,Sand Force,none,183,135,115,60109,51204
+Mega Garchomp,메가한카리아스,Sand Force,H32,215,135,115,70620,60158
+Mega Garchomp,메가한카리아스,Sand Force,HB32,215,183,115,95729,60158
+Mega Garchomp,메가한카리아스,Sand Force,HD32,215,135,161,70620,84221
+Primarina,누리레느,Torrent,none,155,94,136,35450,51289
+Primarina,누리레느,Torrent,H32,187,94,136,42768,61878
+Primarina,누리레느,Torrent,HB32,187,138,136,62788,61878
+Primarina,누리레느,Torrent,HD32,187,94,184,42768,83717
+Charizard,리자몽,Blaze,none,153,98,105,36481,39087
+Charizard,리자몽,Blaze,H32,185,98,105,44111,47262
+Charizard,리자몽,Blaze,HB32,185,143,105,64367,47262
+Charizard,리자몽,Blaze,HD32,185,98,150,44111,67518
+Mega Charizard Y,메가리자몽Y,Drought,none,153,98,135,36481,50255
+Mega Charizard Y,메가리자몽Y,Drought,H32,185,98,135,44111,60766
+Mega Charizard Y,메가리자몽Y,Drought,HB32,185,143,135,64367,60766
+Mega Charizard Y,메가리자몽Y,Drought,HD32,185,98,183,44111,82372
+Mega Charizard X,메가리자몽X,Tough Claws,none,153,131,105,48766,39087
+Mega Charizard X,메가리자몽X,Tough Claws,H32,185,131,105,58965,47262
+Mega Charizard X,메가리자몽X,Tough Claws,HB32,185,179,105,80571,47262
+Mega Charizard X,메가리자몽X,Tough Claws,HD32,185,131,150,58965,67518
+Corviknight,아머까오,Pressure,none,173,125,105,52615,44197
+Corviknight,아머까오,Pressure,H32,205,125,105,62347,52372
+Corviknight,아머까오,Pressure,HB32,205,172,105,85790,52372
+Corviknight,아머까오,Pressure,HD32,205,125,150,62347,74817
+Archaludon,브리두라스,Stamina,none,165,150,85,60218,34124
+Archaludon,브리두라스,Stamina,H32,197,150,85,71897,40742
+Archaludon,브리두라스,Stamina,HB32,197,200,85,95863,40742
+Archaludon,브리두라스,Stamina,HD32,197,150,128,71897,61352
+Hippowdon,하마돈,Sand Stream,none,183,138,92,61445,40963
+Hippowdon,하마돈,Sand Stream,H32,215,138,92,72189,48126
+Hippowdon,하마돈,Sand Stream,HB32,215,187,92,97822,48126
+Hippowdon,하마돈,Sand Stream,HD32,215,138,136,72189,71143
+Gengar,팬텀,Cursed Body,none,135,80,95,26277,31204
+Gengar,팬텀,Cursed Body,H32,167,80,95,32506,38600
+Gengar,팬텀,Cursed Body,HB32,167,123,95,49978,38600
+Gengar,팬텀,Cursed Body,HD32,167,80,139,32506,56479
+Mega Gengar,메가팬텀,Shadow Tag,none,135,100,115,32846,37773
+Mega Gengar,메가팬텀,Shadow Tag,H32,167,100,115,40632,46727
+Mega Gengar,메가팬텀,Shadow Tag,HB32,167,145,115,58917,46727
+Mega Gengar,메가팬텀,Shadow Tag,HD32,167,100,161,40632,65418
+Scizor,핫삼,Technician,none,145,120,100,42335,35279
+Scizor,핫삼,Technician,H32,177,120,100,51678,43065
+Scizor,핫삼,Technician,HB32,177,167,100,71919,43065
+Scizor,핫삼,Technician,HD32,177,120,145,51678,62445
+Mega Scizor,메가핫삼,Technician,none,145,160,120,56447,42335
+Mega Scizor,메가핫삼,Technician,H32,177,160,120,68905,51678
+Mega Scizor,메가핫삼,Technician,HB32,177,211,120,90868,51678
+Mega Scizor,메가핫삼,Technician,HD32,177,160,167,68905,71919
+Aegislash,킬가르도 (실드폼),Stance Change,none,135,160,160,52554,52554
+Aegislash,킬가르도 (실드폼),Stance Change,H32,167,160,160,65012,65012
+Aegislash,킬가르도 (실드폼),Stance Change,HB32,167,211,160,85734,65012
+Aegislash,킬가르도 (실드폼),Stance Change,HD32,167,160,211,65012,85734
+Aegislash (Blade Forme),킬가르도 (블레이드폼),Stance Change,none,135,70,70,22992,22992
+Aegislash (Blade Forme),킬가르도 (블레이드폼),Stance Change,H32,167,70,70,28442,28442
+Aegislash (Blade Forme),킬가르도 (블레이드폼),Stance Change,HB32,167,112,70,45508,28442
+Aegislash (Blade Forme),킬가르도 (블레이드폼),Stance Change,HD32,167,70,112,28442,45508
+Dragonite,망나뇽,Multiscale,none,166,115,120,46447,48467
+Dragonite,망나뇽,Multiscale,H32,198,115,120,55401,57810
+Dragonite,망나뇽,Multiscale,HB32,198,161,120,77562,57810
+Dragonite,망나뇽,Multiscale,HD32,198,115,167,55401,80452
+Mega Dragonite,메가망나뇽,Multiscale,none,166,135,145,54525,58564
+Mega Dragonite,메가망나뇽,Multiscale,H32,198,135,145,65036,69854
+Mega Dragonite,메가망나뇽,Multiscale,HB32,198,183,145,88160,69854
+Mega Dragonite,메가망나뇽,Multiscale,HD32,198,135,194,65036,93459
+Meowscarada,마스카나,Protean,none,151,90,90,33065,33065
+Meowscarada,마스카나,Protean,H32,183,90,90,40072,40072
+Meowscarada,마스카나,Protean,HB32,183,134,90,59664,40072
+Meowscarada,마스카나,Protean,HD32,183,90,134,40072,59664
+Basculegion,대쓰여너 (수컷),Adaptability,none,195,85,95,40328,45072
+Basculegion,대쓰여너 (수컷),Adaptability,H32,227,85,95,46946,52469
+Basculegion,대쓰여너 (수컷),Adaptability,HB32,227,128,95,70695,52469
+Basculegion,대쓰여너 (수컷),Adaptability,HD32,227,85,139,46946,76771
+Basculegion (Female),대쓰여너 (암컷),Adaptability,none,195,85,95,40328,45072
+Basculegion (Female),대쓰여너 (암컷),Adaptability,H32,227,85,95,46946,52469
+Basculegion (Female),대쓰여너 (암컷),Adaptability,HB32,227,128,95,70695,52469
+Basculegion (Female),대쓰여너 (암컷),Adaptability,HD32,227,85,139,46946,76771
+Kingambit,대도각참,Defiant,none,175,140,105,59610,44708
+Kingambit,대도각참,Defiant,H32,207,140,105,70510,52883
+Kingambit,대도각참,Defiant,HB32,207,189,105,95189,52883
+Kingambit,대도각참,Defiant,HD32,207,140,150,70510,75547
+Mimikyu,따라큐,Disguise Busted,none,130,100,125,31630,39537
+Mimikyu,따라큐,Disguise Busted,H32,162,100,125,39416,49270
+Mimikyu,따라큐,Disguise Busted,HB32,162,145,125,57153,49270
+Mimikyu,따라큐,Disguise Busted,HD32,162,100,172,39416,67795
+Lopunny,이어롭,Limber,none,140,104,116,35425,39513
+Lopunny,이어롭,Limber,H32,172,104,116,43523,48545
+Lopunny,이어롭,Limber,HB32,172,149,116,62355,48545
+Lopunny,이어롭,Limber,HD32,172,104,162,43523,67795
+Mega Lopunny,메가이어롭,Scrappy,none,140,114,116,38832,39513
+Mega Lopunny,메가이어롭,Scrappy,H32,172,114,116,47708,48545
+Mega Lopunny,메가이어롭,Scrappy,HB32,172,160,116,66958,48545
+Mega Lopunny,메가이어롭,Scrappy,HD32,172,114,162,47708,67795
+Hydreigon,삼삼드래,Levitate,none,167,110,110,44695,44695
+Hydreigon,삼삼드래,Levitate,H32,199,110,110,53260,53260
+Hydreigon,삼삼드래,Levitate,HB32,199,156,110,75532,53260
+Hydreigon,삼삼드래,Levitate,HD32,199,110,156,53260,75532
+Wash Rotom,워시로토무,Levitate,none,125,127,127,38625,38625
+Wash Rotom,워시로토무,Levitate,H32,157,127,127,48513,48513
+Wash Rotom,워시로토무,Levitate,HB32,157,174,127,66467,48513
+Wash Rotom,워시로토무,Levitate,HD32,157,127,174,48513,66467
+Glimmora,킬라플로르,Toxic Debris,none,158,110,101,42287,38827
+Glimmora,킬라플로르,Toxic Debris,H32,190,110,101,50851,46690
+Glimmora,킬라플로르,Toxic Debris,HB32,190,156,101,72116,46690
+Glimmora,킬라플로르,Toxic Debris,HD32,190,110,146,50851,67493
+Mega Glimmora,메가킬라플로르,Adaptability,none,158,125,116,48053,44593
+Mega Glimmora,메가킬라플로르,Adaptability,H32,190,125,116,57785,53625
+Mega Glimmora,메가킬라플로르,Adaptability,HB32,190,172,116,79513,53625
+Mega Glimmora,메가킬라플로르,Adaptability,HD32,190,125,162,57785,74890
+Umbreon,블래키,Inner Focus,none,170,130,150,53771,62043
+Umbreon,블래키,Inner Focus,H32,202,130,150,63892,73722
+Umbreon,블래키,Inner Focus,HB32,202,178,150,87484,73722
+Umbreon,블래키,Inner Focus,HD32,202,130,200,63892,98296
+Delphox,마폭시,Blaze,none,150,92,120,33576,43795
+Delphox,마폭시,Blaze,H32,182,92,120,40739,53138
+Delphox,마폭시,Blaze,HB32,182,136,120,60223,53138
+Delphox,마폭시,Blaze,HD32,182,92,167,40739,73951
+Mega Delphox,메가마폭시,Levitate,none,150,92,145,33576,52919
+Mega Delphox,메가마폭시,Levitate,H32,182,92,145,40739,64209
+Mega Delphox,메가마폭시,Levitate,HB32,182,136,145,60223,64209
+Mega Delphox,메가마폭시,Levitate,HD32,182,92,194,40739,85907
+Lucario,루카리오,Inner Focus,none,145,90,90,31751,31751
+Lucario,루카리오,Inner Focus,H32,177,90,90,38759,38759
+Lucario,루카리오,Inner Focus,HB32,177,134,90,57708,38759
+Lucario,루카리오,Inner Focus,HD32,177,90,134,38759,57708
+Mega Lucario,메가루카리오,Adaptability,none,145,108,90,38102,31751
+Mega Lucario,메가루카리오,Adaptability,H32,177,108,90,46510,38759
+Mega Lucario,메가루카리오,Adaptability,HB32,177,154,90,66321,38759
+Mega Lucario,메가루카리오,Adaptability,HD32,177,108,134,46510,57708
+Meganium,메가니움,Overgrow,none,155,120,120,45255,45255
+Meganium,메가니움,Overgrow,H32,187,120,120,54598,54598
+Meganium,메가니움,Overgrow,HB32,187,167,120,75982,54598
+Meganium,메가니움,Overgrow,HD32,187,120,167,54598,75982
+Mega Meganium,메가메가니움,Mega Sol,none,155,135,135,50912,50912
+Mega Meganium,메가메가니움,Mega Sol,H32,187,135,135,61423,61423
+Mega Meganium,메가메가니움,Mega Sol,HB32,187,183,135,83262,61423
+Mega Meganium,메가메가니움,Mega Sol,HD32,187,135,183,61423,83262
+Gyarados,갸라도스,Intimidate,none,170,99,120,40948,49635
+Gyarados,갸라도스,Intimidate,H32,202,99,120,48656,58978
+Gyarados,갸라도스,Intimidate,HB32,202,144,120,70773,58978
+Gyarados,갸라도스,Intimidate,HD32,202,99,167,48656,82077
+Mega Gyarados,메가갸라도스,Mold Breaker,none,170,129,150,53357,62043
+Mega Gyarados,메가갸라도스,Mold Breaker,H32,202,129,150,63401,73722
+Mega Gyarados,메가갸라도스,Mold Breaker,HB32,202,177,150,86992,73722
+Mega Gyarados,메가갸라도스,Mold Breaker,HD32,202,129,200,63401,98296
+Greninja,개굴닌자,Protean,none,147,87,91,31116,32547
+Greninja,개굴닌자,Protean,H32,179,87,91,37890,39632
+Greninja,개굴닌자,Protean,HB32,179,130,91,56618,39632
+Greninja,개굴닌자,Protean,HD32,179,87,135,37890,58795
+Mega Greninja,메가개굴닌자,Protean,none,147,97,101,34693,36124
+Mega Greninja,메가개굴닌자,Protean,H32,179,97,101,42245,43987
+Mega Greninja,메가개굴닌자,Protean,HB32,179,141,101,61408,43987
+Mega Greninja,메가개굴닌자,Protean,HD32,179,97,146,42245,63586
+Kangaskhan,캥카,Scrappy,none,180,100,100,43795,43795
+Kangaskhan,캥카,Scrappy,H32,212,100,100,51581,51581
+Kangaskhan,캥카,Scrappy,HB32,212,145,100,74793,51581
+Kangaskhan,캥카,Scrappy,HD32,212,100,145,51581,74793
+Mega Kangaskhan,메가캥카,Parental Bond,none,180,120,120,52554,52554
+Mega Kangaskhan,메가캥카,Parental Bond,H32,212,120,120,61897,61897
+Mega Kangaskhan,메가캥카,Parental Bond,HB32,212,167,120,86141,61897
+Mega Kangaskhan,메가캥카,Parental Bond,HD32,212,120,167,61897,86141
+Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,none,149,87,148,31540,53654
+Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,H32,181,87,148,38313,65177
+Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,HB32,181,130,148,57250,65177
+Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,HD32,181,87,198,38313,87197
+Mega Floette,메가플라엣테,Fairy Aura,none,149,107,168,38790,60905
+Mega Floette,메가플라엣테,Fairy Aura,H32,181,107,168,47121,73985
+Mega Floette,메가플라엣테,Fairy Aura,HB32,181,152,168,66939,73985
+Mega Floette,메가플라엣테,Fairy Aura,HD32,181,107,220,47121,96885
+Venusaur,이상해꽃,Chlorophyll,none,155,103,120,38844,45255
+Venusaur,이상해꽃,Chlorophyll,H32,187,103,120,46863,54598
+Venusaur,이상해꽃,Chlorophyll,HB32,187,148,120,67338,54598
+Venusaur,이상해꽃,Chlorophyll,HD32,187,103,167,46863,75982
+Mega Venusaur,메가이상해꽃,Thick Fat,none,155,143,140,53929,52798
+Mega Venusaur,메가이상해꽃,Thick Fat,H32,187,143,140,65063,63698
+Mega Venusaur,메가이상해꽃,Thick Fat,HB32,187,192,140,87357,63698
+Mega Venusaur,메가이상해꽃,Thick Fat,HD32,187,143,189,65063,85992
+Sneasler,포푸니크,Unburden,none,155,80,100,30170,37712
+Sneasler,포푸니크,Unburden,H32,187,80,100,36399,45498
+Sneasler,포푸니크,Unburden,HB32,187,123,100,55963,45498
+Sneasler,포푸니크,Unburden,HD32,187,80,145,36399,65973
+Volcarona,불카모스,Flame Body,none,160,85,125,33090,48661
+Volcarona,불카모스,Flame Body,H32,192,85,125,39708,58394
+Volcarona,불카모스,Flame Body,HB32,192,128,125,59795,58394
+Volcarona,불카모스,Flame Body,HD32,192,85,172,39708,80350
+Clefable,픽시,Unaware,none,170,93,110,38467,45498
+Clefable,픽시,Unaware,H32,202,93,110,45708,54063
+Clefable,픽시,Unaware,HB32,202,137,110,67333,54063
+Clefable,픽시,Unaware,HD32,202,93,156,45708,76671
+Mega Clefable,메가픽시,Magic Bounce,none,170,113,130,46739,53771
+Mega Clefable,메가픽시,Magic Bounce,H32,202,113,130,55537,63892
+Mega Clefable,메가픽시,Magic Bounce,HB32,202,159,130,78145,63892
+Mega Clefable,메가픽시,Magic Bounce,HD32,202,113,178,55537,87484
+Heat Rotom,히트로토무,Levitate,none,125,127,127,38625,38625
+Heat Rotom,히트로토무,Levitate,H32,157,127,127,48513,48513
+Heat Rotom,히트로토무,Levitate,HB32,157,174,127,66467,48513
+Heat Rotom,히트로토무,Levitate,HD32,157,127,174,48513,66467
+Tyranitar,마기라스,Sand Stream,none,175,130,180,55352,76642
+Tyranitar,마기라스,Sand Stream,H32,207,130,180,65474,90656
+Tyranitar,마기라스,Sand Stream,HB32,207,178,180,89649,90656
+Tyranitar,마기라스,Sand Stream,HD32,207,130,250,65474,125912
+Mega Tyranitar,메가마기라스,Sand Stream,none,175,170,210,72384,89416
+Mega Tyranitar,메가마기라스,Sand Stream,H32,207,170,210,85620,105766
+Mega Tyranitar,메가마기라스,Sand Stream,HB32,207,222,210,111810,105766
+Mega Tyranitar,메가마기라스,Sand Stream,HD32,207,170,283,85620,142532
+Starmie,아쿠스타,Natural Cure,none,135,105,105,34489,34489
+Starmie,아쿠스타,Natural Cure,H32,167,105,105,42664,42664
+Starmie,아쿠스타,Natural Cure,HB32,167,150,105,60948,42664
+Starmie,아쿠스타,Natural Cure,HD32,167,105,150,42664,60948
+Mega Starmie,메가아쿠스타,Huge Power,none,135,125,125,41058,41058
+Mega Starmie,메가아쿠스타,Huge Power,H32,167,125,125,50790,50790
+Mega Starmie,메가아쿠스타,Huge Power,HB32,167,172,125,69888,50790
+Mega Starmie,메가아쿠스타,Huge Power,HD32,167,125,172,50790,69888
+Sylveon,님피아,Pixilate,none,170,85,150,35158,62043
+Sylveon,님피아,Pixilate,H32,202,85,150,41776,73722
+Sylveon,님피아,Pixilate,HB32,202,128,150,62909,73722
+Sylveon,님피아,Pixilate,HD32,202,85,200,41776,98296
+Infernape,초염몽,Blaze,none,151,91,91,33433,33433
+Infernape,초염몽,Blaze,H32,183,91,91,40518,40518
+Infernape,초염몽,Blaze,HB32,183,135,91,60109,40518
+Infernape,초염몽,Blaze,HD32,183,91,135,40518,60109
+Alakazam,후딘,Magic Guard,none,130,65,115,20559,36374
+Alakazam,후딘,Magic Guard,H32,162,65,115,25620,45328
+Alakazam,후딘,Magic Guard,HB32,162,106,115,41781,45328
+Alakazam,후딘,Magic Guard,HD32,162,65,161,25620,63459
+Mega Alakazam,메가후딘,Trace,none,130,85,125,26885,39537
+Mega Alakazam,메가후딘,Trace,H32,162,85,125,33503,49270
+Mega Alakazam,메가후딘,Trace,HB32,162,128,125,50452,49270
+Mega Alakazam,메가후딘,Trace,HD32,162,85,172,33503,67795
+Vaporeon,샤미드,Water Absorb,none,205,80,115,39902,57360
+Vaporeon,샤미드,Water Absorb,H32,237,80,115,46131,66313
+Vaporeon,샤미드,Water Absorb,HB32,237,123,115,70927,66313
+Vaporeon,샤미드,Water Absorb,HD32,237,80,161,46131,92839
+Polteageist,포트데스,Weak Armor,none,135,85,134,27919,44014
+Polteageist,포트데스,Weak Armor,H32,167,85,134,34537,54447
+Polteageist,포트데스,Weak Armor,HB32,167,128,134,52009,54447
+Polteageist,포트데스,Weak Armor,HD32,167,85,182,34537,73951
+Crabominable,모단단게,Hyper Cutter,none,172,97,87,40593,36408
+Crabominable,모단단게,Hyper Cutter,H32,204,97,87,48145,43182
+Crabominable,모단단게,Hyper Cutter,HB32,204,141,87,69985,43182
+Crabominable,모단단게,Hyper Cutter,HD32,204,97,130,48145,64525
+Mega Crabominable,메가모단단게,Iron Fist,none,172,142,127,59425,53148
+Mega Crabominable,메가모단단게,Iron Fist,H32,204,142,127,70481,63036
+Mega Crabominable,메가모단단게,Iron Fist,HB32,204,191,127,94802,63036
+Mega Crabominable,메가모단단게,Iron Fist,HD32,204,142,174,70481,86364
+Weavile,포푸니라,Pressure,none,145,85,105,29987,37043
+Weavile,포푸니라,Pressure,H32,177,85,105,36605,45218
+Weavile,포푸니라,Pressure,HB32,177,128,105,55124,45218
+Weavile,포푸니라,Pressure,HD32,177,85,150,36605,64598
+Heliolisk,일레도리자드,Dry Skin,none,137,72,114,24000,38000
+Heliolisk,일레도리자드,Dry Skin,H32,169,72,114,29605,46875
+Heliolisk,일레도리자드,Dry Skin,HB32,169,114,114,46875,46875
+Heliolisk,일레도리자드,Dry Skin,HD32,169,72,160,29605,65790
+Hawlucha,루차불,Unburden,none,153,95,83,35364,30897
+Hawlucha,루차불,Unburden,H32,185,95,83,42761,37360
+Hawlucha,루차불,Unburden,HB32,185,139,83,62566,37360
+Hawlucha,루차불,Unburden,HD32,185,95,126,42761,56715
+Mega Hawlucha,메가루차불,No Guard,none,153,120,113,44671,42065
+Mega Hawlucha,메가루차불,No Guard,H32,185,120,113,54014,50863
+Mega Hawlucha,메가루차불,No Guard,HB32,185,167,113,75170,50863
+Mega Hawlucha,메가루차불,No Guard,HD32,185,120,159,54014,71569
+Beedrill,독침붕,Swarm,none,140,60,100,20437,34063
+Beedrill,독침붕,Swarm,H32,172,60,100,25109,41849
+Beedrill,독침붕,Swarm,HB32,172,101,100,42267,41849
+Beedrill,독침붕,Swarm,HD32,172,60,145,25109,60681
+Mega Beedrill,메가독침붕,Adaptability,none,140,60,100,20437,34063
+Mega Beedrill,메가독침붕,Adaptability,H32,172,60,100,25109,41849
+Mega Beedrill,메가독침붕,Adaptability,HB32,172,101,100,42267,41849
+Mega Beedrill,메가독침붕,Adaptability,HD32,172,60,145,25109,60681
+Sharpedo,샤크니아,Speed Boost,none,145,60,60,21167,21167
+Sharpedo,샤크니아,Speed Boost,H32,177,60,60,25839,25839
+Sharpedo,샤크니아,Speed Boost,HB32,177,101,60,43496,25839
+Sharpedo,샤크니아,Speed Boost,HD32,177,60,101,25839,43496
+Mega Sharpedo,메가샤크니아,Strong Jaw,none,145,90,85,31751,29987
+Mega Sharpedo,메가샤크니아,Strong Jaw,H32,177,90,85,38759,36605
+Mega Sharpedo,메가샤크니아,Strong Jaw,HB32,177,134,85,57708,36605
+Mega Sharpedo,메가샤크니아,Strong Jaw,HD32,177,90,128,38759,55124
+Sableye,깜까미,Prankster,none,125,95,85,28892,25851
+Sableye,깜까미,Prankster,H32,157,95,85,36289,32469
+Sableye,깜까미,Prankster,HB32,157,139,85,53097,32469
+Sableye,깜까미,Prankster,HD32,157,95,128,36289,48895
+Mega Sableye,메가깜까미,Magic Bounce,none,125,145,135,44099,41058
+Mega Sableye,메가깜까미,Magic Bounce,H32,157,145,135,55389,51569
+Mega Sableye,메가깜까미,Magic Bounce,HB32,157,194,135,74107,51569
+Mega Sableye,메가깜까미,Magic Bounce,HD32,157,145,183,55389,69905
+Quaquaval,웨이니발,Moxie,none,160,100,95,38929,36982
+Quaquaval,웨이니발,Moxie,H32,192,100,95,46715,44379
+Quaquaval,웨이니발,Moxie,HB32,192,145,95,67737,44379
+Quaquaval,웨이니발,Moxie,HD32,192,100,139,46715,64934
+Feraligatr,장크로다일,Sheer Force,none,160,120,103,46715,40097
+Feraligatr,장크로다일,Sheer Force,H32,192,120,103,56058,48116
+Feraligatr,장크로다일,Sheer Force,HB32,192,167,103,78014,48116
+Feraligatr,장크로다일,Sheer Force,HD32,192,120,148,56058,69138
+Mega Feraligatr,메가장크로다일,Dragonize,none,160,145,113,56447,43990
+Mega Feraligatr,메가장크로다일,Dragonize,H32,192,145,113,67737,52788
+Mega Feraligatr,메가장크로다일,Dragonize,HB32,192,194,113,90627,52788
+Mega Feraligatr,메가장크로다일,Dragonize,HD32,192,145,159,67737,74277
+Espeon,에브이,Magic Bounce,none,140,80,115,27250,39172
+Espeon,에브이,Magic Bounce,H32,172,80,115,33479,48126
+Espeon,에브이,Magic Bounce,HB32,172,123,115,51474,48126
+Espeon,에브이,Magic Bounce,HD32,172,80,161,33479,67377
+Sinistcha,그우린차,Heatproof,none,146,126,100,44759,35523
+Sinistcha,그우린차,Heatproof,H32,178,126,100,54569,43309
+Sinistcha,그우린차,Heatproof,HB32,178,173,100,74924,43309
+Sinistcha,그우린차,Heatproof,HD32,178,126,145,54569,62798
+Aggron,보스로라,Sturdy,none,145,200,80,70559,28223
+Aggron,보스로라,Sturdy,H32,177,200,80,86131,34452
+Aggron,보스로라,Sturdy,HB32,177,255,80,109817,34452
+Aggron,보스로라,Sturdy,HD32,177,200,123,86131,52970
+Mega Aggron,메가보스로라,Filter,none,145,250,100,88199,35279
+Mega Aggron,메가보스로라,Filter,H32,177,250,100,107664,43065
+Mega Aggron,메가보스로라,Filter,HB32,177,310,100,133503,43065
+Mega Aggron,메가보스로라,Filter,HD32,177,250,145,107664,62445
+Slowbro,야도란,Regenerator,none,170,130,100,53771,41362
+Slowbro,야도란,Regenerator,H32,202,130,100,63892,49148
+Slowbro,야도란,Regenerator,HB32,202,178,100,87484,49148
+Slowbro,야도란,Regenerator,HD32,202,130,145,63892,71265
+Mega Slowbro,메가야도란,Shell Armor,none,170,200,100,82725,41362
+Mega Slowbro,메가야도란,Shell Armor,H32,202,200,100,98296,49148
+Mega Slowbro,메가야도란,Shell Armor,HB32,202,255,100,125328,49148
+Mega Slowbro,메가야도란,Shell Armor,HD32,202,200,145,98296,71265
+Orthworm,꿈트렁,Earth Eater,none,145,165,75,58211,26459
+Orthworm,꿈트렁,Earth Eater,H32,177,165,75,71058,32299
+Orthworm,꿈트렁,Earth Eater,HB32,177,216,75,93021,32299
+Orthworm,꿈트렁,Earth Eater,HD32,177,165,117,71058,50386
+Palafin,돌핀맨 (나이브폼),Zero to Hero,none,175,92,82,39172,34914
+Palafin,돌핀맨 (나이브폼),Zero to Hero,H32,207,92,82,46335,41299
+Palafin,돌핀맨 (나이브폼),Zero to Hero,HB32,207,136,82,68496,41299
+Palafin,돌핀맨 (나이브폼),Zero to Hero,HD32,207,92,125,46335,62956
+Palafin (Hero Form),돌핀맨 (마이티폼),Zero to Hero,none,175,117,107,49817,45559
+Palafin (Hero Form),돌핀맨 (마이티폼),Zero to Hero,H32,207,117,107,58927,53890
+Palafin (Hero Form),돌핀맨 (마이티폼),Zero to Hero,HB32,207,163,107,82094,53890
+Palafin (Hero Form),돌핀맨 (마이티폼),Zero to Hero,HD32,207,117,152,58927,76554
+Arcanine,윈디,Intimidate,none,165,100,100,40145,40145
+Arcanine,윈디,Intimidate,H32,197,100,100,47931,47931
+Arcanine,윈디,Intimidate,HB32,197,145,100,69501,47931
+Arcanine,윈디,Intimidate,HD32,197,100,145,47931,69501
+Aerodactyl,프테라,Unnerve,none,155,85,95,32055,35827
+Aerodactyl,프테라,Unnerve,H32,187,85,95,38673,43223
+Aerodactyl,프테라,Unnerve,HB32,187,128,95,58238,43223
+Aerodactyl,프테라,Unnerve,HD32,187,85,139,38673,63243
+Mega Aerodactyl,메가프테라,Tough Claws,none,155,105,115,39598,43369
+Mega Aerodactyl,메가프테라,Tough Claws,H32,187,105,115,47773,52323
+Mega Aerodactyl,메가프테라,Tough Claws,HB32,187,150,115,68248,52323
+Mega Aerodactyl,메가프테라,Tough Claws,HD32,187,105,161,47773,73253
+Chesnaught,브리가론,Bulletproof,none,163,142,95,56316,37676
+Chesnaught,브리가론,Bulletproof,H32,195,142,95,67372,45072
+Chesnaught,브리가론,Bulletproof,HB32,195,191,95,90620,45072
+Chesnaught,브리가론,Bulletproof,HD32,195,142,139,67372,65948
+Mega Chesnaught,메가브리가론,Bulletproof,none,163,192,135,76145,53540
+Mega Chesnaught,메가브리가론,Bulletproof,H32,195,192,135,91094,64051
+Mega Chesnaught,메가브리가론,Bulletproof,HB32,195,246,135,116715,64051
+Mega Chesnaught,메가브리가론,Bulletproof,HD32,195,192,183,91094,86824
+Hisuian Arcanine,윈디 (히스이의 모습),Rock Head,none,170,100,100,41362,41362
+Hisuian Arcanine,윈디 (히스이의 모습),Rock Head,H32,202,100,100,49148,49148
+Hisuian Arcanine,윈디 (히스이의 모습),Rock Head,HB32,202,145,100,71265,49148
+Hisuian Arcanine,윈디 (히스이의 모습),Rock Head,HD32,202,100,145,49148,71265
+Ditto,메타몽,Imposter,none,123,68,68,20350,20350
+Ditto,메타몽,Imposter,H32,155,68,68,25644,25644
+Ditto,메타몽,Imposter,HB32,155,110,68,41484,25644
+Ditto,메타몽,Imposter,HD32,155,68,110,25644,41484
+Chandelure,샹델라,Flash Fire Inactive,none,135,110,110,36131,36131
+Chandelure,샹델라,Flash Fire Inactive,H32,167,110,110,44695,44695
+Chandelure,샹델라,Flash Fire Inactive,HB32,167,156,110,63386,44695
+Chandelure,샹델라,Flash Fire Inactive,HD32,167,110,156,44695,63386
+Mega Chandelure,메가샹델라,Infiltrator,none,135,130,130,42700,42700
+Mega Chandelure,메가샹델라,Infiltrator,H32,167,130,130,52822,52822
+Mega Chandelure,메가샹델라,Infiltrator,HB32,167,178,130,72326,52822
+Mega Chandelure,메가샹델라,Infiltrator,HD32,167,130,178,52822,72326
+Armarouge,카디나르마,Weak Armor,none,160,120,100,46715,38929
+Armarouge,카디나르마,Weak Armor,H32,192,120,100,56058,46715
+Armarouge,카디나르마,Weak Armor,HB32,192,167,100,78014,46715
+Armarouge,카디나르마,Weak Armor,HD32,192,120,145,56058,67737
+Tinkaton,두드리짱,Mold Breaker,none,160,97,125,37761,48661
+Tinkaton,두드리짱,Mold Breaker,H32,192,97,125,45313,58394
+Tinkaton,두드리짱,Mold Breaker,HB32,192,141,125,65868,58394
+Tinkaton,두드리짱,Mold Breaker,HD32,192,97,172,45313,80350
+Galarian Slowking,야도킹 (가라르의 모습),Regenerator,none,170,100,130,41362,53771
+Galarian Slowking,야도킹 (가라르의 모습),Regenerator,H32,202,100,130,49148,63892
+Galarian Slowking,야도킹 (가라르의 모습),Regenerator,HB32,202,145,130,71265,63892
+Galarian Slowking,야도킹 (가라르의 모습),Regenerator,HD32,202,100,178,49148,87484
+Heracross,헤라크로스,Moxie,none,155,95,115,35827,43369
+Heracross,헤라크로스,Moxie,H32,187,95,115,43223,52323
+Heracross,헤라크로스,Moxie,HB32,187,139,115,63243,52323
+Heracross,헤라크로스,Moxie,HD32,187,95,161,43223,73253
+Mega Heracross,메가헤라크로스,Skill Link,none,155,135,125,50912,47141
+Mega Heracross,메가헤라크로스,Skill Link,H32,187,135,125,61423,56873
+Mega Heracross,메가헤라크로스,Skill Link,HB32,187,183,125,83262,56873
+Mega Heracross,메가헤라크로스,Skill Link,HD32,187,135,172,61423,78257
+Hisuian Samurott,대검귀 (히스이의 모습),Sharpness,none,165,100,85,40145,34124
+Hisuian Samurott,대검귀 (히스이의 모습),Sharpness,H32,197,100,85,47931,40742
+Hisuian Samurott,대검귀 (히스이의 모습),Sharpness,HB32,197,145,85,69501,40742
+Hisuian Samurott,대검귀 (히스이의 모습),Sharpness,HD32,197,100,128,47931,61352
+Conkeldurr,노보청,Iron Fist,none,180,115,85,50364,37226
+Conkeldurr,노보청,Iron Fist,H32,212,115,85,59318,43844
+Conkeldurr,노보청,Iron Fist,HB32,212,161,85,83046,43844
+Conkeldurr,노보청,Iron Fist,HD32,212,115,128,59318,66024
+Milotic,밀로틱,Competitive,none,170,99,145,40948,59975
+Milotic,밀로틱,Competitive,H32,202,99,145,48656,71265
+Milotic,밀로틱,Competitive,HB32,202,144,145,70773,71265
+Milotic,밀로틱,Competitive,HD32,202,99,194,48656,95347
+Serperior,샤로다,Contrary,none,150,115,115,41970,41970
+Serperior,샤로다,Contrary,H32,182,115,115,50924,50924
+Serperior,샤로다,Contrary,HB32,182,161,115,71294,50924
+Serperior,샤로다,Contrary,HD32,182,115,161,50924,71294
+Banette,다크펫,Frisk,none,139,85,83,28746,28070
+Banette,다크펫,Frisk,H32,171,85,83,35364,34532
+Banette,다크펫,Frisk,HB32,171,128,83,53255,34532
+Banette,다크펫,Frisk,HD32,171,85,126,35364,52423
+Mega Banette,메가다크펫,Prankster,none,139,95,103,32128,34834
+Mega Banette,메가다크펫,Prankster,H32,171,95,103,39525,42854
+Mega Banette,메가다크펫,Prankster,HB32,171,139,103,57832,42854
+Mega Banette,메가다크펫,Prankster,HD32,171,95,148,39525,61576
+Incineroar,어흥염,Intimidate,none,170,110,110,45498,45498
+Incineroar,어흥염,Intimidate,H32,202,110,110,54063,54063
+Incineroar,어흥염,Intimidate,HB32,202,156,110,76671,54063
+Incineroar,어흥염,Intimidate,HD32,202,110,156,54063,76671
+Hatterene,브리무음,Magic Bounce,none,132,115,123,36934,39503
+Hatterene,브리무음,Magic Bounce,H32,164,115,123,45888,49080
+Hatterene,브리무음,Magic Bounce,HB32,164,161,123,64243,49080
+Hatterene,브리무음,Magic Bounce,HD32,164,115,170,45888,67834
+Hisuian Zoroark,조로아크 (히스이의 모습),Illusion,none,130,80,80,25304,25304
+Hisuian Zoroark,조로아크 (히스이의 모습),Illusion,H32,162,80,80,31532,31532
+Hisuian Zoroark,조로아크 (히스이의 모습),Illusion,HB32,162,123,80,48481,31532
+Hisuian Zoroark,조로아크 (히스이의 모습),Illusion,HD32,162,80,123,31532,48481
+Gallade,엘레이드,Sharpness,none,143,85,135,29574,46970
+Gallade,엘레이드,Sharpness,H32,175,85,135,36192,57481
+Gallade,엘레이드,Sharpness,HB32,175,128,135,54501,57481
+Gallade,엘레이드,Sharpness,HD32,175,85,183,36192,77919
+Mega Gallade,메가엘레이드,Inner Focus,none,143,115,135,40012,46970
+Mega Gallade,메가엘레이드,Inner Focus,H32,175,115,135,48965,57481
+Mega Gallade,메가엘레이드,Inner Focus,HB32,175,161,135,68552,57481
+Mega Gallade,메가엘레이드,Inner Focus,HD32,175,115,183,48965,77919
+Araquanid,깨비물거미,Water Bubble,none,143,112,152,38968,52885
+Araquanid,깨비물거미,Water Bubble,H32,175,112,152,47688,64720
+Araquanid,깨비물거미,Water Bubble,HB32,175,158,152,67274,64720
+Araquanid,깨비물거미,Water Bubble,HD32,175,112,202,47688,86009
+Whimsicott,엘풍,Prankster,none,135,105,95,34489,31204
+Whimsicott,엘풍,Prankster,H32,167,105,95,42664,38600
+Whimsicott,엘풍,Prankster,HB32,167,150,95,60948,38600
+Whimsicott,엘풍,Prankster,HD32,167,105,139,42664,56479
+Kleavor,사마자르,Sharpness,none,145,115,90,40571,31751
+Kleavor,사마자르,Sharpness,H32,177,115,90,49525,38759
+Kleavor,사마자르,Sharpness,HB32,177,161,90,69335,38759
+Kleavor,사마자르,Sharpness,HD32,177,115,134,49525,57708
+Alolan Ninetales,나인테일 (알로라의 모습),Snow Warning,none,148,142,120,51133,43211
+Alolan Ninetales,나인테일 (알로라의 모습),Snow Warning,H32,180,142,120,62189,52554
+Alolan Ninetales,나인테일 (알로라의 모습),Snow Warning,HB32,180,208,120,91094,52554
+Alolan Ninetales,나인테일 (알로라의 모습),Snow Warning,HD32,180,142,167,62189,73138
+Hisuian Goodra,미끄래곤 (히스이의 모습),Gooey,none,155,120,170,45255,64111
+Hisuian Goodra,미끄래곤 (히스이의 모습),Gooey,H32,187,120,170,54598,77347
+Hisuian Goodra,미끄래곤 (히스이의 모습),Gooey,HB32,187,167,170,75982,77347
+Hisuian Goodra,미끄래곤 (히스이의 모습),Gooey,HD32,187,120,222,54598,101007
+Gardevoir,가디안,Trace,none,143,85,135,29574,46970
+Gardevoir,가디안,Trace,H32,175,85,135,36192,57481
+Gardevoir,가디안,Trace,HB32,175,128,135,54501,57481
+Gardevoir,가디안,Trace,HD32,175,85,183,36192,77919
+Mega Gardevoir,메가가디안,Pixilate,none,143,85,155,29574,53929
+Mega Gardevoir,메가가디안,Pixilate,H32,175,85,155,36192,65997
+Mega Gardevoir,메가가디안,Pixilate,HB32,175,128,155,54501,65997
+Mega Gardevoir,메가가디안,Pixilate,HD32,175,85,205,36192,87287
+Scovillain,스코빌런,Moody,none,140,85,85,28953,28953
+Scovillain,스코빌런,Moody,H32,172,85,85,35571,35571
+Scovillain,스코빌런,Moody,HB32,172,128,85,53566,35571
+Scovillain,스코빌런,Moody,HD32,172,85,128,35571,53566
+Mega Scovillain,메가스코빌런,Spicy Spray,none,140,105,105,35766,35766
+Mega Scovillain,메가스코빌런,Spicy Spray,H32,172,105,105,43941,43941
+Mega Scovillain,메가스코빌런,Spicy Spray,HB32,172,150,105,62773,43941
+Mega Scovillain,메가스코빌런,Spicy Spray,HD32,172,105,150,43941,62773
+Froslass,눈여아,Cursed Body,none,145,90,90,31751,31751
+Froslass,눈여아,Cursed Body,H32,177,90,90,38759,38759
+Froslass,눈여아,Cursed Body,HB32,177,134,90,57708,38759
+Froslass,눈여아,Cursed Body,HD32,177,90,134,38759,57708
+Mega Froslass,메가눈여아,Snow Warning,none,145,135,120,47627,42335
+Mega Froslass,메가눈여아,Snow Warning,H32,177,135,120,58138,51678
+Mega Froslass,메가눈여아,Snow Warning,HB32,177,201,120,86562,51678
+Mega Froslass,메가눈여아,Snow Warning,HD32,177,135,167,58138,71919
+Skarmory,무장조,Sturdy,none,140,160,90,54501,30656
+Skarmory,무장조,Sturdy,H32,172,160,90,66958,37664
+Skarmory,무장조,Sturdy,HB32,172,211,90,88301,37664
+Skarmory,무장조,Sturdy,HD32,172,160,134,66958,56077
+Mega Skarmory,메가무장조,Stalwart,none,140,130,120,44282,40875
+Mega Skarmory,메가무장조,Stalwart,H32,172,130,120,54403,50218
+Mega Skarmory,메가무장조,Stalwart,HB32,172,178,120,74491,50218
+Mega Skarmory,메가무장조,Stalwart,HD32,172,130,167,54403,69888
+Ceruledge,파라블레이즈,Weak Armor,none,150,100,120,36496,43795
+Ceruledge,파라블레이즈,Weak Armor,H32,182,100,120,44282,53138
+Ceruledge,파라블레이즈,Weak Armor,HB32,182,145,120,64209,53138
+Ceruledge,파라블레이즈,Weak Armor,HD32,182,100,167,44282,73951
+Excadrill,몰드류,Mold Breaker,none,185,80,85,36009,38260
+Excadrill,몰드류,Mold Breaker,H32,217,80,85,42238,44878
+Excadrill,몰드류,Mold Breaker,HB32,217,123,85,64941,44878
+Excadrill,몰드류,Mold Breaker,HD32,217,80,128,42238,67581
+Mega Excadrill,메가몰드류,Piercing Drill,none,185,120,85,54014,38260
+Mega Excadrill,메가몰드류,Piercing Drill,H32,217,120,85,63357,44878
+Mega Excadrill,메가몰드류,Piercing Drill,HB32,217,167,85,88172,44878
+Mega Excadrill,메가몰드류,Piercing Drill,HD32,217,120,128,63357,67581
+Victreebel,우츠보트,Chlorophyll,none,155,85,90,32055,33941
+Victreebel,우츠보트,Chlorophyll,H32,187,85,90,38673,40948
+Victreebel,우츠보트,Chlorophyll,HB32,187,128,90,58238,40948
+Victreebel,우츠보트,Chlorophyll,HD32,187,85,134,38673,60968
+Mega Victreebel,메가우츠보트,Innards Out,none,155,105,115,39598,43369
+Mega Victreebel,메가우츠보트,Innards Out,H32,187,105,115,47773,52323
+Mega Victreebel,메가우츠보트,Innards Out,HB32,187,150,115,68248,52323
+Mega Victreebel,메가우츠보트,Innards Out,HD32,187,105,161,47773,73253
+Blastoise,거북왕,Torrent,none,154,120,125,44963,46836
+Blastoise,거북왕,Torrent,H32,186,120,125,54306,56569
+Blastoise,거북왕,Torrent,HB32,186,167,125,75576,56569
+Blastoise,거북왕,Torrent,HD32,186,120,172,54306,77839
+Mega Blastoise,메가거북왕,Mega Launcher,none,154,140,135,52457,50583
+Mega Blastoise,메가거북왕,Mega Launcher,H32,186,140,135,63357,61094
+Mega Blastoise,메가거북왕,Mega Launcher,HB32,186,189,135,85532,61094
+Mega Blastoise,메가거북왕,Mega Launcher,HD32,186,140,183,63357,82817
+Empoleon,엠페르트,Competitive,none,159,108,121,41781,46810
+Empoleon,엠페르트,Competitive,H32,191,108,121,50189,56231
+Empoleon,엠페르트,Competitive,HB32,191,154,121,71566,56231
+Empoleon,엠페르트,Competitive,HD32,191,108,168,50189,78072
+Snorlax,잠만보,Thick Fat,none,235,85,130,48600,74330
+Snorlax,잠만보,Thick Fat,H32,267,85,130,55218,84452
+Snorlax,잠만보,Thick Fat,HB32,267,128,130,83153,84452
+Snorlax,잠만보,Thick Fat,HD32,267,85,178,55218,115635
+Diggersby,파르토,Huge Power,none,160,97,97,37761,37761
+Diggersby,파르토,Huge Power,H32,192,97,97,45313,45313
+Diggersby,파르토,Huge Power,HB32,192,141,97,65868,45313
+Diggersby,파르토,Huge Power,HD32,192,97,141,45313,65868
+Mamoswine,맘모꾸리,Oblivious,none,185,100,80,45012,36009
+Mamoswine,맘모꾸리,Oblivious,H32,217,100,80,52798,42238
+Mamoswine,맘모꾸리,Oblivious,HB32,217,145,80,76557,42238
+Mamoswine,맘모꾸리,Oblivious,HD32,217,100,123,52798,64941
+Bellibolt,찌리배리,Electromorphosis,none,184,111,103,49693,46111
+Bellibolt,찌리배리,Electromorphosis,H32,216,111,103,58335,54131
+Bellibolt,찌리배리,Electromorphosis,HB32,216,157,103,82510,54131
+Bellibolt,찌리배리,Electromorphosis,HD32,216,111,148,58335,77781
+Pelipper,패리퍼,Drizzle,none,135,120,90,39416,29562
+Pelipper,패리퍼,Drizzle,H32,167,120,90,48759,36569
+Pelipper,패리퍼,Drizzle,HB32,167,167,90,67856,36569
+Pelipper,패리퍼,Drizzle,HD32,167,120,134,48759,54447
+Azumarill,마릴리,Huge Power,none,175,100,100,42579,42579
+Azumarill,마릴리,Huge Power,H32,207,100,100,50364,50364
+Azumarill,마릴리,Huge Power,HB32,207,145,100,73029,50364
+Azumarill,마릴리,Huge Power,HD32,207,100,145,50364,73029
+Espathra,클레스퍼트라,Speed Boost,none,170,80,80,33090,33090
+Espathra,클레스퍼트라,Speed Boost,H32,202,80,80,39318,39318
+Espathra,클레스퍼트라,Speed Boost,HB32,202,123,80,60452,39318
+Espathra,클레스퍼트라,Speed Boost,HD32,202,80,123,39318,60452
+Toxapex,더시마사리,Regenerator,none,125,172,162,52311,49270
+Toxapex,더시마사리,Regenerator,H32,157,172,162,65703,61883
+Toxapex,더시마사리,Regenerator,HB32,157,224,162,85566,61883
+Toxapex,더시마사리,Regenerator,HD32,157,172,213,65703,81364
+Skeledirge,라우드본,Unaware,none,179,120,95,52262,41374
+Skeledirge,라우드본,Unaware,H32,211,120,95,61605,48771
+Skeledirge,라우드본,Unaware,HB32,211,167,95,85734,48771
+Skeledirge,라우드본,Unaware,HD32,211,120,139,61605,71360
+Dragapult,드래펄트,Infiltrator,none,163,95,95,37676,37676
+Dragapult,드래펄트,Infiltrator,H32,195,95,95,45072,45072
+Dragapult,드래펄트,Infiltrator,HB32,195,139,95,65948,45072
+Dragapult,드래펄트,Infiltrator,HD32,195,95,139,45072,65948
+Floette,플라엣테,Flower Veil,none,129,67,118,21029,37036
+Floette,플라엣테,Flower Veil,H32,161,67,118,26245,46223
+Floette,플라엣테,Flower Veil,HB32,161,108,118,42306,46223
+Floette,플라엣테,Flower Veil,HD32,161,67,165,26245,64635
+Toucannon,왕큰부리,Skill Link,none,155,95,95,35827,35827
+Toucannon,왕큰부리,Skill Link,H32,187,95,95,43223,43223
+Toucannon,왕큰부리,Skill Link,HB32,187,139,95,63243,43223
+Toucannon,왕큰부리,Skill Link,HD32,187,95,139,43223,63243
+Hisuian Typhlosion,블레이범 (히스이의 모습),Frisk,none,148,98,105,35289,37810
+Hisuian Typhlosion,블레이범 (히스이의 모습),Frisk,H32,180,98,105,42919,45985
+Hisuian Typhlosion,블레이범 (히스이의 모습),Frisk,HB32,180,143,105,62627,45985
+Hisuian Typhlosion,블레이범 (히스이의 모습),Frisk,HD32,180,98,150,42919,65693
+Chimecho,치렁,Levitate,none,150,100,110,36496,40145
+Chimecho,치렁,Levitate,H32,182,100,110,44282,48710
+Chimecho,치렁,Levitate,HB32,182,145,110,64209,48710
+Chimecho,치렁,Levitate,HD32,182,100,156,44282,69080
+Mega Chimecho,메가치렁,Levitate,none,150,130,140,47445,51094
+Mega Chimecho,메가치렁,Levitate,H32,182,130,140,57566,61995
+Mega Chimecho,메가치렁,Levitate,HB32,182,178,140,78822,61995
+Mega Chimecho,메가치렁,Levitate,HD32,182,130,189,57566,83693
+Garganacl,콜로솔트,Purifying Salt,none,175,150,110,63868,46836
+Garganacl,콜로솔트,Purifying Salt,H32,207,150,110,75547,55401
+Garganacl,콜로솔트,Purifying Salt,HB32,207,200,110,100729,55401
+Garganacl,콜로솔트,Purifying Salt,HD32,207,150,156,75547,78569
+Pinsir,쁘사이저,Moxie,none,140,120,90,40875,30656
+Pinsir,쁘사이저,Moxie,H32,172,120,90,50218,37664
+Pinsir,쁘사이저,Moxie,HB32,172,167,90,69888,37664
+Pinsir,쁘사이저,Moxie,HD32,172,120,134,50218,56077
+Mega Pinsir,메가쁘사이저,Aerilate,none,140,140,110,47688,37469
+Mega Pinsir,메가쁘사이저,Aerilate,H32,172,140,110,58588,46034
+Mega Pinsir,메가쁘사이저,Aerilate,HB32,172,189,110,79094,46034
+Mega Pinsir,메가쁘사이저,Aerilate,HD32,172,140,156,58588,65284
+Maushold,파밀리쥐,Technician,none,149,90,95,32627,34440
+Maushold,파밀리쥐,Technician,H32,181,90,95,39635,41836
+Maushold,파밀리쥐,Technician,HB32,181,134,95,59012,41836
+Maushold,파밀리쥐,Technician,HD32,181,90,139,39635,61214
+Talonflame,파이어로,Gale Wings,none,153,91,89,33875,33131
+Talonflame,파이어로,Gale Wings,H32,185,91,89,40961,40060
+Talonflame,파이어로,Gale Wings,HB32,185,135,89,60766,40060
+Talonflame,파이어로,Gale Wings,HD32,185,91,133,40961,59866
+Vivillon,비비용,Compound Eyes,none,155,70,70,26399,26399
+Vivillon,비비용,Compound Eyes,H32,187,70,70,31849,31849
+Vivillon,비비용,Compound Eyes,HB32,187,112,70,50958,31849
+Vivillon,비비용,Compound Eyes,HD32,187,70,112,31849,50958
+Abomasnow,눈설왕,Snow Warning,none,165,142,105,57007,42153
+Abomasnow,눈설왕,Snow Warning,H32,197,142,105,68063,50328
+Abomasnow,눈설왕,Snow Warning,HB32,197,208,105,99698,50328
+Abomasnow,눈설왕,Snow Warning,HD32,197,142,150,68063,71897
+Mega Abomasnow,메가눈설왕,Snow Warning,none,165,187,125,75072,50182
+Mega Abomasnow,메가눈설왕,Snow Warning,H32,197,187,125,89632,59914
+Mega Abomasnow,메가눈설왕,Snow Warning,HB32,197,258,125,123664,59914
+Mega Abomasnow,메가눈설왕,Snow Warning,HD32,197,187,172,89632,82442
+Galarian Slowbro,야도란 (가라르의 모습),Quick Draw,none,170,115,90,47566,37226
+Galarian Slowbro,야도란 (가라르의 모습),Quick Draw,H32,202,115,90,56520,44233
+Galarian Slowbro,야도란 (가라르의 모습),Quick Draw,HB32,202,161,90,79128,44233
+Galarian Slowbro,야도란 (가라르의 모습),Quick Draw,HD32,202,115,134,56520,65858
+Lycanroc (Dusk Form),루가루암 (황혼의 모습),Tough Claws,none,150,85,85,31021,31021
+Lycanroc (Dusk Form),루가루암 (황혼의 모습),Tough Claws,H32,182,85,85,37639,37639
+Lycanroc (Dusk Form),루가루암 (황혼의 모습),Tough Claws,HB32,182,128,85,56681,37639
+Lycanroc (Dusk Form),루가루암 (황혼의 모습),Tough Claws,HD32,182,85,128,37639,56681
+Mudsdale,만마드,Stamina,none,175,120,105,51094,44708
+Mudsdale,만마드,Stamina,H32,207,120,105,60437,52883
+Mudsdale,만마드,Stamina,HB32,207,167,105,84109,52883
+Mudsdale,만마드,Stamina,HD32,207,120,150,60437,75547
+Emboar,염무왕,Reckless,none,185,85,85,38260,38260
+Emboar,염무왕,Reckless,H32,217,85,85,44878,44878
+Emboar,염무왕,Reckless,HB32,217,128,85,67581,44878
+Emboar,염무왕,Reckless,HD32,217,85,128,44878,67581
+Mega Emboar,메가염무왕,Mold Breaker,none,185,95,130,42761,58515
+Mega Emboar,메가염무왕,Mold Breaker,H32,217,95,130,50158,68637
+Mega Emboar,메가염무왕,Mold Breaker,HB32,217,139,130,73389,68637
+Mega Emboar,메가염무왕,Mold Breaker,HD32,217,95,178,50158,93980
+Manectric,썬더볼트,Lightning Rod,none,145,80,80,28223,28223
+Manectric,썬더볼트,Lightning Rod,H32,177,80,80,34452,34452
+Manectric,썬더볼트,Lightning Rod,HB32,177,123,80,52970,34452
+Manectric,썬더볼트,Lightning Rod,HD32,177,80,123,34452,52970
+Mega Manectric,메가썬더볼트,Intimidate,none,145,100,100,35279,35279
+Mega Manectric,메가썬더볼트,Intimidate,H32,177,100,100,43065,43065
+Mega Manectric,메가썬더볼트,Intimidate,HB32,177,145,100,62445,43065
+Mega Manectric,메가썬더볼트,Intimidate,HD32,177,100,145,43065,62445
+Mow Rotom,커트로토무,Levitate,none,125,127,127,38625,38625
+Mow Rotom,커트로토무,Levitate,H32,157,127,127,48513,48513
+Mow Rotom,커트로토무,Levitate,HB32,157,174,127,66467,48513
+Mow Rotom,커트로토무,Levitate,HD32,157,127,174,48513,66467
+Altaria,파비코리,Cloud Nine,none,150,110,125,40145,45620
+Altaria,파비코리,Cloud Nine,H32,182,110,125,48710,55352
+Altaria,파비코리,Cloud Nine,HB32,182,156,125,69080,55352
+Altaria,파비코리,Cloud Nine,HD32,182,110,172,48710,76165
+Mega Altaria,메가파비코리,Pixilate,none,150,130,125,47445,45620
+Mega Altaria,메가파비코리,Pixilate,H32,182,130,125,57566,55352
+Mega Altaria,메가파비코리,Pixilate,HB32,182,178,125,78822,55352
+Mega Altaria,메가파비코리,Pixilate,HD32,182,130,172,57566,76165
+Gliscor,글라이온,Poison Heal,none,150,145,95,52919,34671
+Gliscor,글라이온,Poison Heal,H32,182,145,95,64209,42068
+Gliscor,글라이온,Poison Heal,HB32,182,194,95,85907,42068
+Gliscor,글라이온,Poison Heal,HD32,182,145,139,64209,61552
+Paldean Tauros (Blaze Breed),켄타로스 (팔데아의 모습/블레이즈종),Intimidate,none,150,125,90,45620,32846
+Paldean Tauros (Blaze Breed),켄타로스 (팔데아의 모습/블레이즈종),Intimidate,H32,182,125,90,55352,39854
+Paldean Tauros (Blaze Breed),켄타로스 (팔데아의 모습/블레이즈종),Intimidate,HB32,182,172,90,76165,39854
+Paldean Tauros (Blaze Breed),켄타로스 (팔데아의 모습/블레이즈종),Intimidate,HD32,182,125,134,55352,59338
+Jolteon,쥬피썬더,Volt Absorb,none,140,80,115,27250,39172
+Jolteon,쥬피썬더,Volt Absorb,H32,172,80,115,33479,48126
+Jolteon,쥬피썬더,Volt Absorb,HB32,172,123,115,51474,48126
+Jolteon,쥬피썬더,Volt Absorb,HD32,172,80,161,33479,67377
+Pidgeot,피죤투,Big Pecks,none,158,95,90,36520,34598
+Pidgeot,피죤투,Big Pecks,H32,190,95,90,43917,41605
+Pidgeot,피죤투,Big Pecks,HB32,190,139,90,64257,41605
+Pidgeot,피죤투,Big Pecks,HD32,190,95,134,43917,61946
+Mega Pidgeot,메가피죤투,No Guard,none,158,100,100,38442,38442
+Mega Pidgeot,메가피죤투,No Guard,H32,190,100,100,46228,46228
+Mega Pidgeot,메가피죤투,No Guard,HB32,190,145,100,67031,46228
+Mega Pidgeot,메가피죤투,No Guard,HD32,190,100,145,46228,67031
+Hisuian Decidueye,모크나이퍼 (히스이의 모습),Scrappy,none,163,100,115,39659,45608
+Hisuian Decidueye,모크나이퍼 (히스이의 모습),Scrappy,H32,195,100,115,47445,54562
+Hisuian Decidueye,모크나이퍼 (히스이의 모습),Scrappy,HB32,195,145,115,68795,54562
+Hisuian Decidueye,모크나이퍼 (히스이의 모습),Scrappy,HD32,195,100,161,47445,76386
+Salazzle,염뉴트,Corrosion,none,143,80,80,27834,27834
+Salazzle,염뉴트,Corrosion,H32,175,80,80,34063,34063
+Salazzle,염뉴트,Corrosion,HB32,175,123,80,52372,34063
+Salazzle,염뉴트,Corrosion,HD32,175,80,123,34063,52372
+Machamp,괴력몬,No Guard,none,165,100,105,40145,42153
+Machamp,괴력몬,No Guard,H32,197,100,105,47931,50328
+Machamp,괴력몬,No Guard,HB32,197,145,105,69501,50328
+Machamp,괴력몬,No Guard,HD32,197,100,150,47931,71897
+Torterra,토대부기,Overgrow,none,170,125,105,51703,43430
+Torterra,토대부기,Overgrow,H32,202,125,105,61435,51605
+Torterra,토대부기,Overgrow,HB32,202,172,105,84535,51605
+Torterra,토대부기,Overgrow,HD32,202,125,150,61435,73722
+Ampharos,전룡,Static,none,165,105,110,42153,44160
+Ampharos,전룡,Static,H32,197,105,110,50328,52725
+Ampharos,전룡,Static,HB32,197,150,110,71897,52725
+Ampharos,전룡,Static,HD32,197,105,156,50328,74773
+Mega Ampharos,메가전룡,Mold Breaker,none,165,125,130,50182,52189
+Mega Ampharos,메가전룡,Mold Breaker,H32,197,125,130,59914,62311
+Mega Ampharos,메가전룡,Mold Breaker,HB32,197,172,130,82442,62311
+Mega Ampharos,메가전룡,Mold Breaker,HD32,197,125,178,59914,85318
+Runerigus,데스판,Wandering Spirit,none,133,165,125,53394,40450
+Runerigus,데스판,Wandering Spirit,H32,165,165,125,66240,50182
+Runerigus,데스판,Wandering Spirit,HB32,165,216,125,86715,50182
+Runerigus,데스판,Wandering Spirit,HD32,165,165,172,66240,69051
+Glaceon,글레이시아,Snow Cloak,none,140,130,115,44282,39172
+Glaceon,글레이시아,Snow Cloak,H32,172,130,115,54403,48126
+Glaceon,글레이시아,Snow Cloak,HB32,172,178,115,74491,48126
+Glaceon,글레이시아,Snow Cloak,HD32,172,130,161,54403,67377
+Kommo-o,짜랑고우거,Bulletproof,none,150,145,125,52919,45620
+Kommo-o,짜랑고우거,Bulletproof,H32,182,145,125,64209,55352
+Kommo-o,짜랑고우거,Bulletproof,HB32,182,194,125,85907,55352
+Kommo-o,짜랑고우거,Bulletproof,HD32,182,145,172,64209,76165
+Torkoal,코터스,Drought,none,145,160,90,56447,31751
+Torkoal,코터스,Drought,H32,177,160,90,68905,38759
+Torkoal,코터스,Drought,HB32,177,211,90,90868,38759
+Torkoal,코터스,Drought,HD32,177,160,134,68905,57708
+Forretress,쏘콘,Sturdy,none,150,160,80,58394,29197
+Forretress,쏘콘,Sturdy,H32,182,160,80,70851,35425
+Forretress,쏘콘,Sturdy,HB32,182,211,80,93435,35425
+Forretress,쏘콘,Sturdy,HD32,182,160,123,70851,54467
+Krookodile,악비아르,Intimidate,none,170,100,90,41362,37226
+Krookodile,악비아르,Intimidate,H32,202,100,90,49148,44233
+Krookodile,악비아르,Intimidate,HB32,202,145,90,71265,44233
+Krookodile,악비아르,Intimidate,HD32,202,100,134,49148,65858
+Medicham,요가램,Pure Power,none,135,95,95,31204,31204
+Medicham,요가램,Pure Power,H32,167,95,95,38600,38600
+Medicham,요가램,Pure Power,HB32,167,139,95,56479,38600
+Medicham,요가램,Pure Power,HD32,167,95,139,38600,56479
+Mega Medicham,메가요가램,Pure Power,none,135,105,105,34489,34489
+Mega Medicham,메가요가램,Pure Power,H32,167,105,105,42664,42664
+Mega Medicham,메가요가램,Pure Power,HB32,167,150,105,60948,42664
+Mega Medicham,메가요가램,Pure Power,HD32,167,105,150,42664,60948
+Steelix,강철톤,Sturdy,none,150,220,85,80291,31021
+Steelix,강철톤,Sturdy,H32,182,220,85,97420,37639
+Steelix,강철톤,Sturdy,HB32,182,277,85,122661,37639
+Steelix,강철톤,Sturdy,HD32,182,220,128,97420,56681
+Mega Steelix,메가강철톤,Sand Force,none,150,250,115,91240,41970
+Mega Steelix,메가강철톤,Sand Force,H32,182,250,115,110705,50924
+Mega Steelix,메가강철톤,Sand Force,HB32,182,310,115,137274,50924
+Mega Steelix,메가강철톤,Sand Force,HD32,182,250,161,110705,71294
+Tsareena,달코퀸,Queenly Majesty,none,147,118,118,42204,42204
+Tsareena,달코퀸,Queenly Majesty,H32,179,118,118,51391,51391
+Tsareena,달코퀸,Queenly Majesty,HB32,179,165,118,71861,51391
+Tsareena,달코퀸,Queenly Majesty,HD32,179,118,165,51391,71861
+Politoed,왕구리,Drizzle,none,165,95,120,38138,48175
+Politoed,왕구리,Drizzle,H32,197,95,120,45535,57518
+Politoed,왕구리,Drizzle,HB32,197,139,120,66625,57518
+Politoed,왕구리,Drizzle,HD32,197,95,167,45535,80046
+Cofagrigus,데스니칸,Mummy,none,133,165,125,53394,40450
+Cofagrigus,데스니칸,Mummy,H32,165,165,125,66240,50182
+Cofagrigus,데스니칸,Mummy,HB32,165,216,125,86715,50182
+Cofagrigus,데스니칸,Mummy,HD32,165,165,172,66240,69051
+Goodra,미끄래곤,Gooey,none,165,90,170,36131,68248
+Goodra,미끄래곤,Gooey,H32,197,90,170,43138,81484
+Goodra,미끄래곤,Gooey,HB32,197,134,170,64228,81484
+Goodra,미끄래곤,Gooey,HD32,197,90,222,43138,106408
+Drampa,할비롱,Berserk,none,153,105,111,39087,41321
+Drampa,할비롱,Berserk,H32,185,105,111,47262,49963
+Drampa,할비롱,Berserk,HB32,185,150,111,67518,49963
+Drampa,할비롱,Berserk,HD32,185,105,157,47262,70669
+Mega Drampa,메가할비롱,Berserk,none,153,130,136,48394,50627
+Mega Drampa,메가할비롱,Berserk,H32,185,130,136,58515,61216
+Mega Drampa,메가할비롱,Berserk,HB32,185,178,136,80121,61216
+Mega Drampa,메가할비롱,Berserk,HD32,185,130,184,58515,82822
+Vanilluxe,배바닐라,Snow Warning,none,146,157,115,55771,40851
+Vanilluxe,배바닐라,Snow Warning,H32,178,157,115,67995,49805
+Vanilluxe,배바닐라,Snow Warning,HB32,178,225,115,97445,49805
+Vanilluxe,배바닐라,Snow Warning,HD32,178,157,161,67995,69727
+Slurpuff,나루림,Unburden,none,157,106,95,40491,36289
+Slurpuff,나루림,Unburden,H32,189,106,95,48744,43686
+Slurpuff,나루림,Unburden,HB32,189,151,95,69437,43686
+Slurpuff,나루림,Unburden,HD32,189,106,139,48744,63919
+Noivern,음번,Frisk,none,160,100,100,38929,38929
+Noivern,음번,Frisk,H32,192,100,100,46715,46715
+Noivern,음번,Frisk,HB32,192,145,100,67737,46715
+Noivern,음번,Frisk,HD32,192,100,145,46715,67737
+Absol,앱솔,Justified,none,140,80,80,27250,27250
+Absol,앱솔,Justified,H32,172,80,80,33479,33479
+Absol,앱솔,Justified,HB32,172,123,80,51474,33479
+Absol,앱솔,Justified,HD32,172,80,123,33479,51474
+Mega Absol,메가앱솔,Magic Bounce,none,140,80,80,27250,27250
+Mega Absol,메가앱솔,Magic Bounce,H32,172,80,80,33479,33479
+Mega Absol,메가앱솔,Magic Bounce,HB32,172,123,80,51474,33479
+Mega Absol,메가앱솔,Magic Bounce,HD32,172,80,123,33479,51474
+Ariados,아리아도스,Insomnia,none,145,90,90,31751,31751
+Ariados,아리아도스,Insomnia,H32,177,90,90,38759,38759
+Ariados,아리아도스,Insomnia,HB32,177,134,90,57708,38759
+Ariados,아리아도스,Insomnia,HD32,177,90,134,38759,57708
+Glalie,얼음귀신,Moody,none,155,100,100,37712,37712
+Glalie,얼음귀신,Moody,H32,187,100,100,45498,45498
+Glalie,얼음귀신,Moody,HB32,187,145,100,65973,45498
+Glalie,얼음귀신,Moody,HD32,187,100,145,45498,65973
+Mega Glalie,메가얼음귀신,Refrigerate,none,155,100,100,37712,37712
+Mega Glalie,메가얼음귀신,Refrigerate,H32,187,100,100,45498,45498
+Mega Glalie,메가얼음귀신,Refrigerate,HB32,187,145,100,65973,45498
+Mega Glalie,메가얼음귀신,Refrigerate,HD32,187,100,145,45498,65973
+Slowking,야도킹,Regenerator,none,170,100,130,41362,53771
+Slowking,야도킹,Regenerator,H32,202,100,130,49148,63892
+Slowking,야도킹,Regenerator,HB32,202,145,130,71265,63892
+Slowking,야도킹,Regenerator,HD32,202,100,178,49148,87484
+Hisuian Avalugg,크레베이스 (히스이의 모습),Sturdy,none,170,204,56,84379,23163
+Hisuian Avalugg,크레베이스 (히스이의 모습),Sturdy,H32,202,204,56,100262,27523
+Hisuian Avalugg,크레베이스 (히스이의 모습),Sturdy,HB32,202,259,56,127294,27523
+Hisuian Avalugg,크레베이스 (히스이의 모습),Sturdy,HD32,202,204,96,100262,47182
+Clawitzer,블로스터,Mega Launcher,none,146,108,109,38364,38720
+Clawitzer,블로스터,Mega Launcher,H32,178,108,109,46773,47206
+Clawitzer,블로스터,Mega Launcher,HB32,178,154,109,66695,47206
+Clawitzer,블로스터,Mega Launcher,HD32,178,108,155,46773,67128
+Zoroark,조로아크,Illusion,none,135,80,80,26277,26277
+Zoroark,조로아크,Illusion,H32,167,80,80,32506,32506
+Zoroark,조로아크,Illusion,HB32,167,123,80,49978,32506
+Zoroark,조로아크,Illusion,HD32,167,80,123,32506,49978
+Rhyperior,거대코뿌리,Solid Rock,none,190,150,75,69343,34671
+Rhyperior,거대코뿌리,Solid Rock,H32,222,150,75,81021,40510
+Rhyperior,거대코뿌리,Solid Rock,HB32,222,200,75,108029,40510
+Rhyperior,거대코뿌리,Solid Rock,HD32,222,150,117,81021,63197
+Avalugg,크레베이스,Sturdy,none,170,204,66,84379,27299
+Avalugg,크레베이스,Sturdy,H32,202,204,66,100262,32437
+Avalugg,크레베이스,Sturdy,HB32,202,259,66,127294,32437
+Avalugg,크레베이스,Sturdy,HD32,202,204,107,100262,52588
+Hydrapple,과미드라,Regenerator,none,181,130,100,57250,44038
+Hydrapple,과미드라,Regenerator,H32,213,130,100,67372,51824
+Hydrapple,과미드라,Regenerator,HB32,213,178,100,92248,51824
+Hydrapple,과미드라,Regenerator,HD32,213,130,145,67372,75145
+Klefki,클레피,Prankster,none,132,111,107,35649,34364
+Klefki,클레피,Prankster,H32,164,111,107,44291,42695
+Klefki,클레피,Prankster,HB32,164,157,107,62647,42695
+Klefki,클레피,Prankster,HD32,164,111,152,44291,60652
+Farigiraf,키키링,Armor Tail,none,195,90,90,42700,42700
+Farigiraf,키키링,Armor Tail,H32,227,90,90,49708,49708
+Farigiraf,키키링,Armor Tail,HB32,227,134,90,74009,49708
+Farigiraf,키키링,Armor Tail,HD32,227,90,134,49708,74009
+Pikachu,피카츄,Static,none,110,60,70,16058,18734
+Pikachu,피카츄,Static,H32,142,60,70,20729,24184
+Pikachu,피카츄,Static,HB32,142,101,70,34895,24184
+Pikachu,피카츄,Static,HD32,142,60,112,20729,38695
+Spiritomb,화강돌,Infiltrator,none,125,128,128,38929,38929
+Spiritomb,화강돌,Infiltrator,H32,157,128,128,48895,48895
+Spiritomb,화강돌,Infiltrator,HB32,157,176,128,67231,48895
+Spiritomb,화강돌,Infiltrator,HD32,157,128,176,48895,67231
+Roserade,로즈레이드,Natural Cure,none,135,85,125,27919,41058
+Roserade,로즈레이드,Natural Cure,H32,167,85,125,34537,50790
+Roserade,로즈레이드,Natural Cure,HB32,167,128,125,52009,50790
+Roserade,로즈레이드,Natural Cure,HD32,167,85,172,34537,69888
+Morpeko,모르페코,Hunger Switch,none,133,78,78,25240,25240
+Morpeko,모르페코,Hunger Switch,H32,165,78,78,31313,31313
+Morpeko,모르페코,Hunger Switch,HB32,165,121,78,48576,31313
+Morpeko,모르페코,Hunger Switch,HD32,165,78,121,31313,48576
+Golurk,골루그,Iron Fist,none,164,100,100,39902,39902
+Golurk,골루그,Iron Fist,H32,196,100,100,47688,47688
+Golurk,골루그,Iron Fist,HB32,196,145,100,69148,47688
+Golurk,골루그,Iron Fist,HD32,196,100,145,47688,69148
+Mega Golurk,메가골루그,Unseen Fist,none,164,125,125,49878,49878
+Mega Golurk,메가골루그,Unseen Fist,H32,196,125,125,59610,59610
+Mega Golurk,메가골루그,Unseen Fist,HB32,196,172,125,82024,59610
+Mega Golurk,메가골루그,Unseen Fist,HD32,196,125,172,59610,82024
+Houndoom,헬가,Early Bird,none,150,70,100,25547,36496
+Houndoom,헬가,Early Bird,H32,182,70,100,30997,44282
+Houndoom,헬가,Early Bird,HB32,182,112,100,49596,44282
+Houndoom,헬가,Early Bird,HD32,182,70,145,30997,64209
+Mega Houndoom,메가헬가,Solar Power,none,150,110,110,40145,40145
+Mega Houndoom,메가헬가,Solar Power,H32,182,110,110,48710,48710
+Mega Houndoom,메가헬가,Solar Power,HB32,182,156,110,69080,48710
+Mega Houndoom,메가헬가,Solar Power,HD32,182,110,156,48710,69080
+Alcremie,마휘핑,Aroma Veil,none,140,95,141,32360,48029
+Alcremie,마휘핑,Aroma Veil,H32,172,95,141,39756,59007
+Alcremie,마휘핑,Aroma Veil,HB32,172,139,141,58170,59007
+Alcremie,마휘핑,Aroma Veil,HD32,172,95,190,39756,79513
+Sandaconda,사다이사,Sand Spit,none,147,145,90,51861,32189
+Sandaconda,사다이사,Sand Spit,H32,179,145,90,63150,39197
+Sandaconda,사다이사,Sand Spit,HB32,179,194,90,84491,39197
+Sandaconda,사다이사,Sand Spit,HD32,179,145,134,63150,58360
+Reuniclus,란쿨루스,Magic Guard,none,185,95,105,42761,47262
+Reuniclus,란쿨루스,Magic Guard,H32,217,95,105,50158,55437
+Reuniclus,란쿨루스,Magic Guard,HB32,217,139,105,73389,55437
+Reuniclus,란쿨루스,Magic Guard,HD32,217,95,150,50158,79197
+Paldean Tauros (Aqua Breed),켄타로스 (팔데아의 모습/워터종),Intimidate,none,150,125,90,45620,32846
+Paldean Tauros (Aqua Breed),켄타로스 (팔데아의 모습/워터종),Intimidate,H32,182,125,90,55352,39854
+Paldean Tauros (Aqua Breed),켄타로스 (팔데아의 모습/워터종),Intimidate,HB32,182,172,90,76165,39854
+Paldean Tauros (Aqua Breed),켄타로스 (팔데아의 모습/워터종),Intimidate,HD32,182,125,134,55352,59338
+Frost Rotom,프로스트로토무,Levitate,none,125,127,127,38625,38625
+Frost Rotom,프로스트로토무,Levitate,H32,157,127,127,48513,48513
+Frost Rotom,프로스트로토무,Levitate,HB32,157,174,127,66467,48513
+Frost Rotom,프로스트로토무,Levitate,HD32,157,127,174,48513,66467
+Meowstic,냐오닉스 (수컷),Prankster,none,149,96,101,34802,36615
+Meowstic,냐오닉스 (수컷),Prankster,H32,181,96,101,42277,44479
+Meowstic,냐오닉스 (수컷),Prankster,HB32,181,140,101,61654,44479
+Meowstic,냐오닉스 (수컷),Prankster,HD32,181,96,146,42277,64296
+Ninetales,나인테일,Drought,none,148,95,120,34209,43211
+Ninetales,나인테일,Drought,H32,180,95,120,41605,52554
+Ninetales,나인테일,Drought,HB32,180,139,120,60875,52554
+Ninetales,나인테일,Drought,HD32,180,95,167,41605,73138
+Typhlosion,블레이범,Blaze,none,153,98,105,36481,39087
+Typhlosion,블레이범,Blaze,H32,185,98,105,44111,47262
+Typhlosion,블레이범,Blaze,HB32,185,143,105,64367,47262
+Typhlosion,블레이범,Blaze,HD32,185,98,150,44111,67518
+Toxicroak,독개굴,Dry Skin,none,158,85,85,32676,32676
+Toxicroak,독개굴,Dry Skin,H32,190,85,85,39294,39294
+Toxicroak,독개굴,Dry Skin,HB32,190,128,85,59172,39294
+Toxicroak,독개굴,Dry Skin,HD32,190,85,128,39294,59172
+Aurorus,아마루르가,Snow Warning,none,198,138,112,66481,53956
+Aurorus,아마루르가,Snow Warning,H32,230,138,112,77226,62676
+Aurorus,아마루르가,Snow Warning,HB32,230,204,112,114160,62676
+Aurorus,아마루르가,Snow Warning,HD32,230,138,158,77226,88418
+Stunfisk,메더,Static,none,184,104,119,46559,53274
+Stunfisk,메더,Static,H32,216,104,119,54656,62540
+Stunfisk,메더,Static,HB32,216,149,119,78306,62540
+Stunfisk,메더,Static,HD32,216,104,166,54656,87240
+Trevenant,대로트,Harvest,none,160,96,102,37372,39708
+Trevenant,대로트,Harvest,H32,192,96,102,44846,47649
+Trevenant,대로트,Harvest,HB32,192,140,102,65401,47649
+Trevenant,대로트,Harvest,HD32,192,96,147,44846,68671
+Tyrantrum,견고라스,Rock Head,none,157,139,79,53097,30177
+Tyrantrum,견고라스,Rock Head,H32,189,139,79,63919,36328
+Tyrantrum,견고라스,Rock Head,HB32,189,188,79,86452,36328
+Tyrantrum,견고라스,Rock Head,HD32,189,139,122,63919,56102
+Luxray,렌트라,Intimidate,none,155,99,99,37335,37335
+Luxray,렌트라,Intimidate,H32,187,99,99,45043,45043
+Luxray,렌트라,Intimidate,HB32,187,144,99,65518,45043
+Luxray,렌트라,Intimidate,HD32,187,99,144,45043,65518
+Camerupt,폭타,Solid Rock,none,145,90,95,31751,33515
+Camerupt,폭타,Solid Rock,H32,177,90,95,38759,40912
+Camerupt,폭타,Solid Rock,HB32,177,134,95,57708,40912
+Camerupt,폭타,Solid Rock,HD32,177,90,139,38759,59861
+Mega Camerupt,메가폭타,Sheer Force,none,145,120,125,42335,44099
+Mega Camerupt,메가폭타,Sheer Force,H32,177,120,125,51678,53832
+Mega Camerupt,메가폭타,Sheer Force,HB32,177,167,125,71919,53832
+Mega Camerupt,메가폭타,Sheer Force,HD32,177,120,172,51678,74072
+Pangoro,부란다,Scrappy,none,170,98,91,40535,37639
+Pangoro,부란다,Scrappy,H32,202,98,91,48165,44725
+Pangoro,부란다,Scrappy,HB32,202,143,91,70282,44725
+Pangoro,부란다,Scrappy,HD32,202,98,135,48165,66350
+Leafeon,리피아,Chlorophyll,none,140,150,85,51094,28953
+Leafeon,리피아,Chlorophyll,H32,172,150,85,62773,35571
+Leafeon,리피아,Chlorophyll,HB32,172,200,85,83698,35571
+Leafeon,리피아,Chlorophyll,HD32,172,150,128,62773,53566
+Emolga,에몽가,Motor Drive,none,130,80,80,25304,25304
+Emolga,에몽가,Motor Drive,H32,162,80,80,31532,31532
+Emolga,에몽가,Motor Drive,HB32,162,123,80,48481,31532
+Emolga,에몽가,Motor Drive,HD32,162,80,123,31532,48481
+Flareon,부스터,Flash Fire Inactive,none,140,80,130,27250,44282
+Flareon,부스터,Flash Fire Inactive,H32,172,80,130,33479,54403
+Flareon,부스터,Flash Fire Inactive,HB32,172,123,130,51474,54403
+Flareon,부스터,Flash Fire Inactive,HD32,172,80,178,33479,74491
+Decidueye,모크나이퍼,Long Reach,none,153,95,120,35364,44671
+Decidueye,모크나이퍼,Long Reach,H32,185,95,120,42761,54014
+Decidueye,모크나이퍼,Long Reach,HB32,185,139,120,62566,54014
+Decidueye,모크나이퍼,Long Reach,HD32,185,95,167,42761,75170
+Florges,플라제스,Flower Veil,none,153,88,174,32759,64773
+Florges,플라제스,Flower Veil,H32,185,88,174,39610,78321
+Florges,플라제스,Flower Veil,HB32,185,132,174,59416,78321
+Florges,플라제스,Flower Veil,HD32,185,88,226,39610,101727
+Bastiodon,바리톱스,Sturdy,none,135,188,158,61751,51897
+Bastiodon,바리톱스,Sturdy,H32,167,188,158,76389,64199
+Bastiodon,바리톱스,Sturdy,HB32,167,242,158,98330,64199
+Bastiodon,바리톱스,Sturdy,HD32,167,188,209,76389,84922
+Raichu,라이츄,Lightning Rod,none,135,75,100,24635,32846
+Raichu,라이츄,Lightning Rod,H32,167,75,100,30474,40632
+Raichu,라이츄,Lightning Rod,HB32,167,117,100,47540,40632
+Raichu,라이츄,Lightning Rod,HD32,167,75,145,30474,58917
+Alolan Raichu,라이츄 (알로라의 모습),Surge Surfer,none,135,70,105,22992,34489
+Alolan Raichu,라이츄 (알로라의 모습),Surge Surfer,H32,167,70,105,28442,42664
+Alolan Raichu,라이츄 (알로라의 모습),Surge Surfer,HB32,167,112,105,45508,42664
+Alolan Raichu,라이츄 (알로라의 모습),Surge Surfer,HD32,167,70,150,28442,60948
+Meowstic (Female),냐오닉스 (암컷),Competitive,none,149,96,101,34802,36615
+Meowstic (Female),냐오닉스 (암컷),Competitive,H32,181,96,101,42277,44479
+Meowstic (Female),냐오닉스 (암컷),Competitive,HB32,181,140,101,61654,44479
+Meowstic (Female),냐오닉스 (암컷),Competitive,HD32,181,96,146,42277,64296
+Mega Meowstic,메가냐오닉스,Trace,none,149,96,121,34802,43866
+Mega Meowstic,메가냐오닉스,Trace,H32,181,96,121,42277,53287
+Mega Meowstic,메가냐오닉스,Trace,HB32,181,140,121,61654,53287
+Mega Meowstic,메가냐오닉스,Trace,HD32,181,96,168,42277,73985
+Gourgeist (Small Size),펌킨인 (소사이즈),Insomnia,none,130,142,95,44914,30048
+Gourgeist (Small Size),펌킨인 (소사이즈),Insomnia,H32,162,142,95,55970,37445
+Gourgeist (Small Size),펌킨인 (소사이즈),Insomnia,HB32,162,191,95,75284,37445
+Gourgeist (Small Size),펌킨인 (소사이즈),Insomnia,HD32,162,142,139,55970,54788
+Rampardos,램펄드,Sheer Force,none,172,80,70,33479,29294
+Rampardos,램펄드,Sheer Force,H32,204,80,70,39708,34744
+Rampardos,램펄드,Sheer Force,HB32,204,123,70,61051,34744
+Rampardos,램펄드,Sheer Force,HD32,204,80,112,39708,55591
+Appletun,단지래플,Thick Fat,none,185,100,100,45012,45012
+Appletun,단지래플,Thick Fat,H32,217,100,100,52798,52798
+Appletun,단지래플,Thick Fat,HB32,217,145,100,76557,52798
+Appletun,단지래플,Thick Fat,HD32,217,100,145,52798,76557
+Wyrdeer,신비록,Intimidate,none,178,92,95,39844,41143
+Wyrdeer,신비록,Intimidate,H32,210,92,95,47007,48540
+Wyrdeer,신비록,Intimidate,HB32,210,136,95,69489,48540
+Wyrdeer,신비록,Intimidate,HD32,210,92,139,47007,71021
+Dedenne,데덴네,Cheek Pouch,none,142,77,87,26603,30058
+Dedenne,데덴네,Cheek Pouch,H32,174,77,87,32598,36832
+Dedenne,데덴네,Cheek Pouch,HB32,174,119,87,50379,36832
+Dedenne,데덴네,Cheek Pouch,HD32,174,77,130,32598,55036
+Audino,다부니,Regenerator,none,178,106,106,45907,45907
+Audino,다부니,Regenerator,H32,210,106,106,54160,54160
+Audino,다부니,Regenerator,HB32,210,151,106,77153,54160
+Audino,다부니,Regenerator,HD32,210,106,151,54160,77153
+Mega Audino,메가다부니,Healer,none,178,146,146,63231,63231
+Mega Audino,메가다부니,Healer,H32,210,146,146,74598,74598
+Mega Audino,메가다부니,Healer,HB32,210,195,146,99635,74598
+Mega Audino,메가다부니,Healer,HD32,210,146,195,74598,99635
+Fan Rotom,스핀로토무,Levitate,none,125,127,127,38625,38625
+Fan Rotom,스핀로토무,Levitate,H32,157,127,127,48513,48513
+Fan Rotom,스핀로토무,Levitate,HB32,157,174,127,66467,48513
+Fan Rotom,스핀로토무,Levitate,HD32,157,127,174,48513,66467
+Galarian Stunfisk,메더 (가라르의 모습),Mimicry,none,184,119,104,53274,46559
+Galarian Stunfisk,메더 (가라르의 모습),Mimicry,H32,216,119,104,62540,54656
+Galarian Stunfisk,메더 (가라르의 모습),Mimicry,HB32,216,166,104,87240,54656
+Galarian Stunfisk,메더 (가라르의 모습),Mimicry,HD32,216,119,149,62540,78306
+Lycanroc,루가루암 (한낮의 모습),Sand Rush,none,150,85,85,31021,31021
+Lycanroc,루가루암 (한낮의 모습),Sand Rush,H32,182,85,85,37639,37639
+Lycanroc,루가루암 (한낮의 모습),Sand Rush,HB32,182,128,85,56681,37639
+Lycanroc,루가루암 (한낮의 모습),Sand Rush,HD32,182,85,128,37639,56681
+Mr. Rime,마임꽁꽁,Screen Cleaner,none,155,95,120,35827,45255
+Mr. Rime,마임꽁꽁,Screen Cleaner,H32,187,95,120,43223,54598
+Mr. Rime,마임꽁꽁,Screen Cleaner,HB32,187,139,120,63243,54598
+Mr. Rime,마임꽁꽁,Screen Cleaner,HD32,187,95,167,43223,75982
+Arbok,아보크,Intimidate,none,135,89,99,29233,32518
+Arbok,아보크,Intimidate,H32,167,89,99,36163,40226
+Arbok,아보크,Intimidate,HB32,167,133,99,54041,40226
+Arbok,아보크,Intimidate,HD32,167,89,144,36163,58510
+Beartic,툰베어,Slush Rush,none,170,100,100,41362,41362
+Beartic,툰베어,Slush Rush,H32,202,100,100,49148,49148
+Beartic,툰베어,Slush Rush,HB32,202,145,100,71265,49148
+Beartic,툰베어,Slush Rush,HD32,202,100,145,49148,71265
+Furfrou,트리미앙,Fur Coat,none,150,160,110,58394,40145
+Furfrou,트리미앙,Fur Coat,H32,182,160,110,70851,48710
+Furfrou,트리미앙,Fur Coat,HB32,182,246,110,108934,48710
+Furfrou,트리미앙,Fur Coat,HD32,182,160,156,70851,69080
+Liepard,레파르다스,Prankster,none,139,70,70,23673,23673
+Liepard,레파르다스,Prankster,H32,171,70,70,29124,29124
+Liepard,레파르다스,Prankster,HB32,171,112,70,46598,29124
+Liepard,레파르다스,Prankster,HD32,171,70,112,29124,46598
+Flapple,애프룡,Hustle,none,145,100,80,35279,28223
+Flapple,애프룡,Hustle,H32,177,100,80,43065,34452
+Flapple,애프룡,Hustle,HB32,177,145,80,62445,34452
+Flapple,애프룡,Hustle,HD32,177,100,123,43065,52970
+Garbodor,더스트나,Weak Armor,none,155,102,102,38467,38467
+Garbodor,더스트나,Weak Armor,H32,187,102,102,46408,46408
+Garbodor,더스트나,Weak Armor,HB32,187,147,102,66883,46408
+Garbodor,더스트나,Weak Armor,HD32,187,102,147,46408,66883
+Lycanroc (Midnight Form),루가루암 (한밤중의 모습),No Guard,none,160,95,95,36982,36982
+Lycanroc (Midnight Form),루가루암 (한밤중의 모습),No Guard,H32,192,95,95,44379,44379
+Lycanroc (Midnight Form),루가루암 (한밤중의 모습),No Guard,HB32,192,139,95,64934,44379
+Lycanroc (Midnight Form),루가루암 (한밤중의 모습),No Guard,HD32,192,95,139,44379,64934
+Samurott,대검귀,Shell Armor,none,170,105,90,43430,37226
+Samurott,대검귀,Shell Armor,H32,202,105,90,51605,44233
+Samurott,대검귀,Shell Armor,HB32,202,150,90,73722,44233
+Samurott,대검귀,Shell Armor,HD32,202,105,134,51605,65858
+Tauros,켄타로스,Sheer Force,none,150,115,90,41970,32846
+Tauros,켄타로스,Sheer Force,H32,182,115,90,50924,39854
+Tauros,켄타로스,Sheer Force,HB32,182,161,90,71294,39854
+Tauros,켄타로스,Sheer Force,HD32,182,115,134,50924,59338
+Oranguru,하랑우탄,Inner Focus,none,165,100,130,40145,52189
+Oranguru,하랑우탄,Inner Focus,H32,197,100,130,47931,62311
+Oranguru,하랑우탄,Inner Focus,HB32,197,145,130,69501,62311
+Oranguru,하랑우탄,Inner Focus,HD32,197,100,178,47931,85318
+Simipour,앗차키,Torrent,none,150,83,83,30291,30291
+Simipour,앗차키,Torrent,H32,182,83,83,36754,36754
+Simipour,앗차키,Torrent,HB32,182,126,83,55795,36754
+Simipour,앗차키,Torrent,HD32,182,83,126,36754,55795
+Passimian,내던숭이,Defiant,none,175,110,80,46836,34063
+Passimian,내던숭이,Defiant,H32,207,110,80,55401,40291
+Passimian,내던숭이,Defiant,HB32,207,156,80,78569,40291
+Passimian,내던숭이,Defiant,HD32,207,110,123,55401,61948
+Aromatisse,프레프티르,Aroma Veil,none,176,92,109,39396,46676
+Aromatisse,프레프티르,Aroma Veil,H32,208,92,109,46559,55163
+Aromatisse,프레프티르,Aroma Veil,HB32,208,136,109,68827,55163
+Aromatisse,프레프티르,Aroma Veil,HD32,208,92,155,46559,78442
+Simisear,바오키,Blaze,none,150,83,83,30291,30291
+Simisear,바오키,Blaze,H32,182,83,83,36754,36754
+Simisear,바오키,Blaze,HB32,182,126,83,55795,36754
+Simisear,바오키,Blaze,HD32,182,83,126,36754,55795
+Watchog,보르그,Analytic,none,135,89,89,29233,29233
+Watchog,보르그,Analytic,H32,167,89,89,36163,36163
+Watchog,보르그,Analytic,HB32,167,133,89,54041,36163
+Watchog,보르그,Analytic,HD32,167,89,133,36163,54041
+Simisage,야나키,Overgrow,none,150,83,83,30291,30291
+Simisage,야나키,Overgrow,H32,182,83,83,36754,36754
+Simisage,야나키,Overgrow,HB32,182,126,83,55795,36754
+Simisage,야나키,Overgrow,HD32,182,83,126,36754,55795
+Rotom,로토무,Levitate,none,125,97,97,29501,29501
+Rotom,로토무,Levitate,H32,157,97,97,37053,37053
+Rotom,로토무,Levitate,HB32,157,141,97,53861,37053
+Rotom,로토무,Levitate,HD32,157,97,141,37053,53861
+Castform,캐스퐁,Forecast,none,145,90,90,31751,31751
+Castform,캐스퐁,Forecast,H32,177,90,90,38759,38759
+Castform,캐스퐁,Forecast,HB32,177,134,90,57708,38759
+Castform,캐스퐁,Forecast,HD32,177,90,134,38759,57708
+Paldean Tauros (Combat Breed),켄타로스 (팔데아의 모습/컴뱃종),Intimidate,none,150,125,90,45620,32846
+Paldean Tauros (Combat Breed),켄타로스 (팔데아의 모습/컴뱃종),Intimidate,H32,182,125,90,55352,39854
+Paldean Tauros (Combat Breed),켄타로스 (팔데아의 모습/컴뱃종),Intimidate,HB32,182,172,90,76165,39854
+Paldean Tauros (Combat Breed),켄타로스 (팔데아의 모습/컴뱃종),Intimidate,HD32,182,125,134,55352,59338
+Mega Raichu X,메가라이츄X,Electric Surge,none,135,115,115,37773,37773
+Mega Raichu X,메가라이츄X,Electric Surge,H32,167,115,115,46727,46727
+Mega Raichu X,메가라이츄X,Electric Surge,HB32,167,161,115,65418,46727
+Mega Raichu X,메가라이츄X,Electric Surge,HD32,167,115,161,46727,65418
+Mega Raichu Y,메가라이츄Y,No Guard,none,135,75,100,24635,32846
+Mega Raichu Y,메가라이츄Y,No Guard,H32,167,75,100,30474,40632
+Mega Raichu Y,메가라이츄Y,No Guard,HB32,167,117,100,47540,40632
+Mega Raichu Y,메가라이츄Y,No Guard,HD32,167,75,145,30474,58917
+Vileplume,라플레시아,Effect Spore,none,150,105,110,38321,40145
+Vileplume,라플레시아,Effect Spore,H32,182,105,110,46496,48710
+Vileplume,라플레시아,Effect Spore,HB32,182,150,110,66423,48710
+Vileplume,라플레시아,Effect Spore,HD32,182,105,156,46496,69080
+Qwilfish,침바루,Intimidate,none,140,105,75,35766,25547
+Qwilfish,침바루,Intimidate,H32,172,105,75,43941,31386
+Qwilfish,침바루,Intimidate,HB32,172,150,75,62773,31386
+Qwilfish,침바루,Intimidate,HD32,172,105,117,43941,48963
+Sceptile,나무킹,Overgrow,none,145,85,105,29987,37043
+Sceptile,나무킹,Overgrow,H32,177,85,105,36605,45218
+Sceptile,나무킹,Overgrow,HB32,177,128,105,55124,45218
+Sceptile,나무킹,Overgrow,HD32,177,85,150,36605,64598
+Mega Sceptile,메가나무킹,Lightning Rod,none,145,95,105,33515,37043
+Mega Sceptile,메가나무킹,Lightning Rod,H32,177,95,105,40912,45218
+Mega Sceptile,메가나무킹,Lightning Rod,HB32,177,139,105,59861,45218
+Mega Sceptile,메가나무킹,Lightning Rod,HD32,177,95,150,40912,64598
+Blaziken,번치코,Speed Boost,none,155,90,90,33941,33941
+Blaziken,번치코,Speed Boost,H32,187,90,90,40948,40948
+Blaziken,번치코,Speed Boost,HB32,187,134,90,60968,40948
+Blaziken,번치코,Speed Boost,HD32,187,90,134,40948,60968
+Mega Blaziken,메가번치코,Speed Boost,none,155,100,100,37712,37712
+Mega Blaziken,메가번치코,Speed Boost,H32,187,100,100,45498,45498
+Mega Blaziken,메가번치코,Speed Boost,HB32,187,145,100,65973,45498
+Mega Blaziken,메가번치코,Speed Boost,HD32,187,100,145,45498,65973
+Swampert,대짱이,Torrent,none,175,110,110,46836,46836
+Swampert,대짱이,Torrent,H32,207,110,110,55401,55401
+Swampert,대짱이,Torrent,HB32,207,156,110,78569,55401
+Swampert,대짱이,Torrent,HD32,207,110,156,55401,78569
+Mega Swampert,메가대짱이,Swift Swim,none,175,130,130,55352,55352
+Mega Swampert,메가대짱이,Swift Swim,H32,207,130,130,65474,65474
+Mega Swampert,메가대짱이,Swift Swim,HB32,207,178,130,89649,65474
+Mega Swampert,메가대짱이,Swift Swim,HD32,207,130,178,65474,89649
+Mawile,입치트,Intimidate,none,125,105,75,31934,22810
+Mawile,입치트,Intimidate,H32,157,105,75,40109,28649
+Mawile,입치트,Intimidate,HB32,157,150,75,57299,28649
+Mawile,입치트,Intimidate,HD32,157,105,117,40109,44693
+Mega Mawile,메가입치트,Huge Power,none,125,145,115,44099,34975
+Mega Mawile,메가입치트,Huge Power,H32,157,145,115,55389,43929
+Mega Mawile,메가입치트,Huge Power,HB32,157,194,115,74107,43929
+Mega Mawile,메가입치트,Huge Power,HD32,157,145,161,55389,61501
+Metagross,메타그로스,Clear Body,none,155,150,110,56569,41484
+Metagross,메타그로스,Clear Body,H32,187,150,110,68248,50048
+Metagross,메타그로스,Clear Body,HB32,187,200,110,90997,50048
+Metagross,메타그로스,Clear Body,HD32,187,150,156,68248,70978
+Mega Metagross,메가메타그로스,Tough Claws,none,155,170,130,64111,49026
+Mega Metagross,메가메타그로스,Tough Claws,H32,187,170,130,77347,59148
+Mega Metagross,메가메타그로스,Tough Claws,HB32,187,222,130,101007,59148
+Mega Metagross,메가메타그로스,Tough Claws,HD32,187,170,178,77347,80987
+Staraptor,찌르호크,Intimidate,none,160,90,80,35036,31143
+Staraptor,찌르호크,Intimidate,H32,192,90,80,42043,37372
+Staraptor,찌르호크,Intimidate,HB32,192,134,80,62598,37372
+Staraptor,찌르호크,Intimidate,HD32,192,90,123,42043,57459
+Mega Staraptor,메가찌르호크,Contrary,none,160,120,110,46715,42822
+Mega Staraptor,메가찌르호크,Contrary,H32,192,120,110,56058,51386
+Mega Staraptor,메가찌르호크,Contrary,HB32,192,167,110,78014,51386
+Mega Staraptor,메가찌르호크,Contrary,HD32,192,120,156,56058,72875
+Musharna,몽얌나,Synchronize,none,191,105,115,48795,53442
+Musharna,몽얌나,Synchronize,H32,223,105,115,56970,62396
+Musharna,몽얌나,Synchronize,HB32,223,150,115,81386,62396
+Musharna,몽얌나,Synchronize,HD32,223,105,161,56970,87355
+Scolipede,펜드라,Speed Boost,none,135,109,89,35802,29233
+Scolipede,펜드라,Speed Boost,H32,167,109,89,44289,36163
+Scolipede,펜드라,Speed Boost,HB32,167,155,89,62980,36163
+Scolipede,펜드라,Speed Boost,HD32,167,109,133,44289,54041
+Mega Scolipede,메가펜드라,Shell Armor,none,135,169,119,55510,39087
+Mega Scolipede,메가펜드라,Shell Armor,H32,167,169,119,68669,48352
+Mega Scolipede,메가펜드라,Shell Armor,HB32,167,221,119,89798,48352
+Mega Scolipede,메가펜드라,Shell Armor,HD32,167,169,166,68669,67450
+Scrafty,곤율거니,Intimidate,none,140,135,135,45985,45985
+Scrafty,곤율거니,Intimidate,H32,172,135,135,56496,56496
+Scrafty,곤율거니,Intimidate,HB32,172,183,135,76583,56496
+Scrafty,곤율거니,Intimidate,HD32,172,135,183,56496,76583
+Mega Scrafty,메가곤율거니,Intimidate,none,140,155,155,52798,52798
+Mega Scrafty,메가곤율거니,Intimidate,H32,172,155,155,64866,64866
+Mega Scrafty,메가곤율거니,Intimidate,HB32,172,205,155,85790,64866
+Mega Scrafty,메가곤율거니,Intimidate,HD32,172,155,205,64866,85790
+Eelektross,저리더프,Levitate,none,160,100,100,38929,38929
+Eelektross,저리더프,Levitate,H32,192,100,100,46715,46715
+Eelektross,저리더프,Levitate,HB32,192,145,100,67737,46715
+Eelektross,저리더프,Levitate,HD32,192,100,145,46715,67737
+Mega Eelektross,메가저리더프,Eelevate,none,160,100,110,38929,42822
+Mega Eelektross,메가저리더프,Eelevate,H32,192,100,110,46715,51386
+Mega Eelektross,메가저리더프,Eelevate,HB32,192,145,110,67737,51386
+Mega Eelektross,메가저리더프,Eelevate,HD32,192,100,156,46715,72875
+Pyroar,화염레오,Unnerve,none,161,92,86,36038,33688
+Pyroar,화염레오,Unnerve,H32,193,92,86,43201,40384
+Pyroar,화염레오,Unnerve,HB32,193,136,86,63863,40384
+Pyroar,화염레오,Unnerve,HD32,193,92,129,43201,60576
+Mega Pyroar,메가화염레오,Fire Mane,none,161,112,106,43873,41523
+Mega Pyroar,메가화염레오,Fire Mane,H32,193,112,106,52593,49776
+Mega Pyroar,메가화염레오,Fire Mane,HB32,193,158,106,74194,49776
+Mega Pyroar,메가화염레오,Fire Mane,HD32,193,112,151,52593,70907
+Malamar,칼라마네로,Contrary,none,161,108,95,42306,37214
+Malamar,칼라마네로,Contrary,H32,193,108,95,50715,44610
+Malamar,칼라마네로,Contrary,HB32,193,154,95,72316,44610
+Malamar,칼라마네로,Contrary,HD32,193,108,139,50715,65272
+Mega Malamar,메가칼라마네로,Contrary,none,161,108,140,42306,54841
+Mega Malamar,메가칼라마네로,Contrary,H32,193,108,140,50715,65742
+Mega Malamar,메가칼라마네로,Contrary,HB32,193,154,140,72316,65742
+Mega Malamar,메가칼라마네로,Contrary,HD32,193,108,189,50715,88751
+Barbaracle,거북손데스,Tough Claws,none,147,135,106,48284,37912
+Barbaracle,거북손데스,Tough Claws,H32,179,135,106,58795,46165
+Barbaracle,거북손데스,Tough Claws,HB32,179,183,106,79700,46165
+Barbaracle,거북손데스,Tough Claws,HD32,179,135,151,58795,65763
+Mega Barbaracle,메가거북손데스,Tough Claws,none,147,150,126,53649,45065
+Mega Barbaracle,메가거북손데스,Tough Claws,H32,179,150,126,65328,54875
+Mega Barbaracle,메가거북손데스,Tough Claws,HB32,179,200,126,87104,54875
+Mega Barbaracle,메가거북손데스,Tough Claws,HD32,179,150,173,65328,75345
+Grimmsnarl,오롱털,Prankster,none,170,85,95,35158,39294
+Grimmsnarl,오롱털,Prankster,H32,202,85,95,41776,46690
+Grimmsnarl,오롱털,Prankster,HB32,202,128,95,62909,46690
+Grimmsnarl,오롱털,Prankster,HD32,202,85,139,41776,68316
+Falinks,대여르,Defiant,none,140,120,80,40875,27250
+Falinks,대여르,Defiant,H32,172,120,80,50218,33479
+Falinks,대여르,Defiant,HB32,172,167,80,69888,33479
+Falinks,대여르,Defiant,HD32,172,120,123,50218,51474
+Mega Falinks,메가대여르,Defiant,none,140,155,85,52798,28953
+Mega Falinks,메가대여르,Defiant,H32,172,155,85,64866,35571
+Mega Falinks,메가대여르,Defiant,HB32,172,205,85,85790,35571
+Mega Falinks,메가대여르,Defiant,HD32,172,155,128,64866,53566
+Houndstone,묘두기,Fluffy,none,147,120,117,42919,41846
+Houndstone,묘두기,Fluffy,H32,179,120,117,52262,50956
+Houndstone,묘두기,Fluffy,HB32,179,167,117,72732,50956
+Houndstone,묘두기,Fluffy,HD32,179,120,163,52262,70990
+Annihilape,저승갓숭,Defiant,none,185,100,110,45012,49513
+Annihilape,저승갓숭,Defiant,H32,217,100,110,52798,58077
+Annihilape,저승갓숭,Defiant,HB32,217,145,110,76557,58077
+Annihilape,저승갓숭,Defiant,HD32,217,100,156,52798,82364
+Gholdengo,타부자고,Good as Gold,none,162,115,111,45328,43751
+Gholdengo,타부자고,Good as Gold,H32,194,115,111,54282,52394
+Gholdengo,타부자고,Good as Gold,HB32,194,161,111,75995,52394
+Gholdengo,타부자고,Good as Gold,HD32,194,115,157,54282,74107
+Dragalge,드래캄,Adaptability,none,140,110,143,37469,48710
+Dragalge,드래캄,Adaptability,H32,172,110,143,46034,59844
+Dragalge,드래캄,Adaptability,HB32,172,156,143,65284,59844
+Dragalge,드래캄,Adaptability,HD32,172,110,192,46034,80350
+Mega Dragalge,메가드래캄,Regenerator,none,140,125,183,42579,62335
+Mega Dragalge,메가드래캄,Regenerator,H32,172,125,183,52311,76583
+Mega Dragalge,메가드래캄,Regenerator,HB32,172,172,183,71980,76583
+Mega Dragalge,메가드래캄,Regenerator,HD32,172,125,236,52311,98763
+Gourgeist (Large Size),펌킨인 (대사이즈),Frisk,none,150,142,95,51824,34671
+Gourgeist (Large Size),펌킨인 (대사이즈),Frisk,H32,182,142,95,62880,42068
+Gourgeist (Large Size),펌킨인 (대사이즈),Frisk,HB32,182,191,95,84579,42068
+Gourgeist (Large Size),펌킨인 (대사이즈),Frisk,HD32,182,142,139,62880,61552
+Gourgeist (Super Size),펌킨인 (특대사이즈),Insomnia,none,160,142,95,55279,36982
+Gourgeist (Super Size),펌킨인 (특대사이즈),Insomnia,H32,192,142,95,66335,44379
+Gourgeist (Super Size),펌킨인 (특대사이즈),Insomnia,HB32,192,191,95,89226,44379
+Gourgeist (Super Size),펌킨인 (특대사이즈),Insomnia,HD32,192,142,139,66335,64934
+Morpeko (Hangry Mode),모르페코 (헝그리 모드),Hunger Switch,none,133,78,78,25240,25240
+Morpeko (Hangry Mode),모르페코 (헝그리 모드),Hunger Switch,H32,165,78,78,31313,31313
+Morpeko (Hangry Mode),모르페코 (헝그리 모드),Hunger Switch,HB32,165,121,78,48576,31313
+Morpeko (Hangry Mode),모르페코 (헝그리 모드),Hunger Switch,HD32,165,78,121,31313,48576
+Overqwil,장침바루,Intimidate,none,160,115,85,44768,33090
+Overqwil,장침바루,Intimidate,H32,192,115,85,53722,39708
+Overqwil,장침바루,Intimidate,HB32,192,161,85,75211,39708
+Overqwil,장침바루,Intimidate,HD32,192,115,128,53722,59795
+Gourgeist,펌킨인 (보통사이즈),Insomnia,none,140,142,95,48369,32360
+Gourgeist,펌킨인 (보통사이즈),Insomnia,H32,172,142,95,59425,39756
+Gourgeist,펌킨인 (보통사이즈),Insomnia,HB32,172,191,95,79931,39756
+Gourgeist,펌킨인 (보통사이즈),Insomnia,HD32,172,142,139,59425,58170
+Wigglytuff,푸크린,Competitive,none,215,65,70,34002,36618
+Wigglytuff,푸크린,Competitive,H32,247,65,70,39063,42068
+Wigglytuff,푸크린,Competitive,HB32,247,106,70,63703,42068
+Wigglytuff,푸크린,Competitive,HD32,247,65,112,39063,67309
+Persian,페르시온,Technician,none,140,80,85,27250,28953
+Persian,페르시온,Technician,H32,172,80,85,33479,35571
+Persian,페르시온,Technician,HB32,172,123,85,51474,35571
+Persian,페르시온,Technician,HD32,172,80,128,33479,53566
+Alolan Persian,페르시온 (알로라의 모습),Fur Coat,none,140,160,85,54501,28953
+Alolan Persian,페르시온 (알로라의 모습),Fur Coat,H32,172,160,85,66958,35571
+Alolan Persian,페르시온 (알로라의 모습),Fur Coat,HB32,172,246,85,102948,35571
+Alolan Persian,페르시온 (알로라의 모습),Fur Coat,HD32,172,160,128,66958,53566
+Perrserker,나이킹,Tough Claws,none,145,120,80,42335,28223
+Perrserker,나이킹,Tough Claws,H32,177,120,80,51678,34452
+Perrserker,나이킹,Tough Claws,HB32,177,167,80,71919,34452
+Perrserker,나이킹,Tough Claws,HD32,177,120,123,51678,52970
+Farfetch'd,파오리,Defiant,none,127,75,82,23175,25338
+Farfetch'd,파오리,Defiant,H32,159,75,82,29014,31722
+Farfetch'd,파오리,Defiant,HB32,159,117,82,45262,31722
+Farfetch'd,파오리,Defiant,HD32,159,75,125,29014,48357
+Swalot,꿀꺽몬,Liquid Ooze,none,175,103,103,43856,43856
+Swalot,꿀꺽몬,Liquid Ooze,H32,207,103,103,51875,51875
+Swalot,꿀꺽몬,Liquid Ooze,HB32,207,148,103,74540,51875
+Swalot,꿀꺽몬,Liquid Ooze,HD32,207,103,148,51875,74540
+Salamence,보만다,Intimidate,none,170,100,100,41362,41362
+Salamence,보만다,Intimidate,H32,202,100,100,49148,49148
+Salamence,보만다,Intimidate,HB32,202,145,100,71265,49148
+Salamence,보만다,Intimidate,HD32,202,100,145,49148,71265
+Gogoat,고고트,Grass Pelt,none,198,82,101,39503,48656
+Gogoat,고고트,Grass Pelt,H32,230,82,101,45888,56520
+Gogoat,고고트,Grass Pelt,HB32,230,125,101,69951,56520
+Gogoat,고고트,Grass Pelt,HD32,230,82,146,45888,81703
+Golisopod,갑주무사,Emergency Exit,none,150,160,110,58394,40145
+Golisopod,갑주무사,Emergency Exit,H32,182,160,110,70851,48710
+Golisopod,갑주무사,Emergency Exit,HB32,182,211,110,93435,48710
+Golisopod,갑주무사,Emergency Exit,HD32,182,160,156,70851,69080
+Rillaboom,고릴타,Grassy Surge,none,175,110,90,46836,38321
+Rillaboom,고릴타,Grassy Surge,H32,207,110,90,55401,45328
+Rillaboom,고릴타,Grassy Surge,HB32,207,156,90,78569,45328
+Rillaboom,고릴타,Grassy Surge,HD32,207,110,134,55401,67489
+Cinderace,에이스번,Libero,none,155,95,95,35827,35827
+Cinderace,에이스번,Libero,H32,187,95,95,43223,43223
+Cinderace,에이스번,Libero,HB32,187,139,95,63243,43223
+Cinderace,에이스번,Libero,HD32,187,95,139,43223,63243
+Inteleon,인텔리레온,Sniper,none,145,85,85,29987,29987
+Inteleon,인텔리레온,Sniper,H32,177,85,85,36605,36605
+Inteleon,인텔리레온,Sniper,HB32,177,128,85,55124,36605
+Inteleon,인텔리레온,Sniper,HD32,177,85,128,36605,55124
+Thievul,폭슬라이,Run Away,none,145,78,112,27518,39513
+Thievul,폭슬라이,Run Away,H32,177,78,112,33591,48233
+Thievul,폭슬라이,Run Away,HB32,177,121,112,52109,48233
+Thievul,폭슬라이,Run Away,HD32,177,78,158,33591,68043
+Toxtricity,스트린더 (하이한 모습),Punk Rock,none,150,90,90,32846,32846
+Toxtricity,스트린더 (하이한 모습),Punk Rock,H32,182,90,90,39854,39854
+Toxtricity,스트린더 (하이한 모습),Punk Rock,HB32,182,134,90,59338,39854
+Toxtricity,스트린더 (하이한 모습),Punk Rock,HD32,182,90,134,39854,59338
+Toxtricity (Low Key Form),스트린더 (로우한 모습),Punk Rock,none,150,90,90,32846,32846
+Toxtricity (Low Key Form),스트린더 (로우한 모습),Punk Rock,H32,182,90,90,39854,39854
+Toxtricity (Low Key Form),스트린더 (로우한 모습),Punk Rock,HB32,182,134,90,59338,39854
+Toxtricity (Low Key Form),스트린더 (로우한 모습),Punk Rock,HD32,182,90,134,39854,59338
+Grapploct,케오퍼스,Technician,none,155,110,100,41484,37712
+Grapploct,케오퍼스,Technician,H32,187,110,100,50048,45498
+Grapploct,케오퍼스,Technician,HB32,187,156,100,70978,45498
+Grapploct,케오퍼스,Technician,HD32,187,110,145,50048,65973
+Sirfetch'd,창파나이트,Scrappy,none,137,115,102,38333,34000
+Sirfetch'd,창파나이트,Scrappy,H32,169,115,102,47287,41941
+Sirfetch'd,창파나이트,Scrappy,HB32,169,161,102,66201,41941
+Sirfetch'd,창파나이트,Scrappy,HD32,169,115,147,47287,60445
+Pincurchin,찌르성게,Electric Surge,none,123,115,105,34416,31423
+Pincurchin,찌르성게,Electric Surge,H32,155,115,105,43369,39598
+Pincurchin,찌르성게,Electric Surge,HB32,155,161,105,60717,39598
+Pincurchin,찌르성게,Electric Surge,HD32,155,115,150,43369,56569
+Indeedee (Female),에써르 (암컷),Psychic Surge,none,145,85,125,29987,44099
+Indeedee (Female),에써르 (암컷),Psychic Surge,H32,177,85,125,36605,53832
+Indeedee (Female),에써르 (암컷),Psychic Surge,HB32,177,128,125,55124,53832
+Indeedee (Female),에써르 (암컷),Psychic Surge,HD32,177,85,172,36605,74072
+Indeedee,에써르 (수컷),Psychic Surge,none,135,75,115,24635,37773
+Indeedee,에써르 (수컷),Psychic Surge,H32,167,75,115,30474,46727
+Indeedee,에써르 (수컷),Psychic Surge,HB32,167,117,115,47540,46727
+Indeedee,에써르 (수컷),Psychic Surge,HD32,167,75,161,30474,65418
+Arboliva,올리르바,Seed Sower,none,153,110,129,40948,48021
+Arboliva,올리르바,Seed Sower,H32,185,110,129,49513,58065
+Arboliva,올리르바,Seed Sower,HB32,185,156,129,70218,58065
+Arboliva,올리르바,Seed Sower,HD32,185,110,177,49513,79671
+Squawkabilly,시비꼬,Intimidate,none,157,71,71,27121,27121
+Squawkabilly,시비꼬,Intimidate,H32,189,71,71,32649,32649
+Squawkabilly,시비꼬,Intimidate,HB32,189,113,71,51963,32649
+Squawkabilly,시비꼬,Intimidate,HD32,189,71,113,32649,51963
+Mabosstiff,마피티프,Intimidate,none,155,110,90,41484,33941
+Mabosstiff,마피티프,Intimidate,H32,187,110,90,50048,40948
+Mabosstiff,마피티프,Intimidate,HB32,187,156,90,70978,40948
+Mabosstiff,마피티프,Intimidate,HD32,187,110,134,50048,60968
+Baxcalibur,드닐레이브,Thermal Exchange,none,190,112,106,51776,49002
+Baxcalibur,드닐레이브,Thermal Exchange,H32,222,112,106,60496,57255
+Baxcalibur,드닐레이브,Thermal Exchange,HB32,222,158,106,85343,57255
+Baxcalibur,드닐레이브,Thermal Exchange,HD32,222,112,151,60496,81562
+Mega Absol Z,메가앱솔Z,Sharpness,none,140,80,80,27250,27250
+Mega Absol Z,메가앱솔Z,Sharpness,H32,172,80,80,33479,33479
+Mega Absol Z,메가앱솔Z,Sharpness,HB32,172,123,80,51474,33479
+Mega Absol Z,메가앱솔Z,Sharpness,HD32,172,80,123,33479,51474
+Mega Garchomp Z,메가한카리아스Z,Levitate,none,183,105,105,46751,46751
+Mega Garchomp Z,메가한카리아스Z,Levitate,H32,215,105,105,54927,54927
+Mega Garchomp Z,메가한카리아스Z,Levitate,HB32,215,150,105,78467,54927
+Mega Garchomp Z,메가한카리아스Z,Levitate,HD32,215,105,150,54927,78467
+Mega Lucario Z,메가루카리오Z,Aura Guard,none,145,90,90,31751,31751
+Mega Lucario Z,메가루카리오Z,Aura Guard,H32,177,90,90,38759,38759
+Mega Lucario Z,메가루카리오Z,Aura Guard,HB32,177,134,90,57708,38759
+Mega Lucario Z,메가루카리오Z,Aura Guard,HD32,177,90,134,38759,57708
+Mega Salamence,메가보만다,Aerilate,none,170,150,110,62043,45498
+Mega Salamence,메가보만다,Aerilate,H32,202,150,110,73722,54063
+Mega Salamence,메가보만다,Aerilate,HB32,202,200,110,98296,54063
+Mega Salamence,메가보만다,Aerilate,HD32,202,150,156,73722,76671
+Mega Golisopod,메가갑주무사,Tough Claws,none,150,195,140,71167,51094
+Mega Golisopod,메가갑주무사,Tough Claws,H32,182,195,140,86350,61995
+Mega Golisopod,메가갑주무사,Tough Claws,HB32,182,249,140,110262,61995
+Mega Golisopod,메가갑주무사,Tough Claws,HD32,182,195,189,86350,83693
+Mega Baxcalibur,메가드닐레이브,Thermal Exchange,none,190,137,121,63333,55936
+Mega Baxcalibur,메가드닐레이브,Thermal Exchange,H32,222,137,121,74000,65357
+Mega Baxcalibur,메가드닐레이브,Thermal Exchange,HB32,222,185,121,99927,65357
+Mega Baxcalibur,메가드닐레이브,Thermal Exchange,HD32,222,137,168,74000,90744
+Pawmot,빠르모트,Iron Fist,none,145,90,80,31751,28223
+Pawmot,빠르모트,Iron Fist,H32,177,90,80,38759,34452
+Pawmot,빠르모트,Iron Fist,HB32,177,134,80,57708,34452
+Pawmot,빠르모트,Iron Fist,HD32,177,90,123,38759,52970
+Mr. Mime,마임맨,Filter,none,115,85,140,23783,39172
+Mr. Mime,마임맨,Filter,H32,147,85,140,30401,50072
+Mr. Mime,마임맨,Filter,HB32,147,128,140,45781,50072
+Mr. Mime,마임맨,Filter,HD32,147,85,189,30401,67598
