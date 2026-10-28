@@ -20,6 +20,7 @@
 | SETUP-003 | 필수-전개 | 메가다크펫·빠르모트 부활·대쓰여너/대도각참 마무리 및 메가우츠보트·메가픽시 변형 | 사용자 제공, M6 관측 (2026-10-28) | 미정 | 구조 등록·선출 미검증 | 미평가 | 보류 | [부활 교환 전개 문서](archetypes/REVIVAL_TRADE_PAWMOT.md) |
 | SETUP-004 | 필수-전개 | 올리르바·클레스퍼트라·메가픽시 바톤형, 펜드라/껍질깨기/픽시 단독 및 혼합 | 사용자 제공, M6 관측 (2026-10-28) | 미정 | 구조 등록·선출 미검증 | 미평가 | 보류 | [바톤·픽시 아키타입](archetypes/BATON_MEGA_CLEFABLE.md) |
 | SETUP-005 | 필수-전개 | 기합의띠 팬텀 + 먹다남은음식 변덕쟁이 스코빌런 또는 메가갸라도스 전개, 얼음귀신 변형 | 사용자 제공, チョカ M6 최종 9위 공개 구축 외 (2026-10-28) | 미정 | 구조 등록·선출 미검증 | 미평가 | 보류 | [변덕쟁이 아키타입](archetypes/MOODY_GENGAR_SCOVILLAIN.md) |
+| OFFENSE-PENDING-001 | 메이저 대면(본문 대기) | 디시인사이드 게시글 489184 — 6마리/기술/선출 미확인 | [사용자 제시 링크](https://gall.dcinside.com/mgallery/board/view/?id=pkmchampions&no=489184), 2026-10-28 | 미정 | **링크 수신·원문 접근 실패** | 정보 부족 | 비필수군/미평가 | [시험 B 및 미확인 정보](experiments/FIVE_SETUP_PLUS_OFFENSE_PENDING_TEAM_B.md) |
 
 ### 사용 상태
 
