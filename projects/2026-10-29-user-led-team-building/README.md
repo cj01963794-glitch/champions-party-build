@@ -28,6 +28,7 @@
 - [LEAD_SELECTION_CRITERIA.md](LEAD_SELECTION_CRITERIA.md): 사용자가 제시한 비메가 선봉의 평가 기준, 맘모꾸리·팬텀 예시 및 미검증 지점
 - [PRIORITY_MOVES_TOP70_2026-10-28.md](PRIORITY_MOVES_TOP70_2026-10-28.md): 2026-10-28 싱글 사용률 상위 70종 중 선공기 채용이 공개 통계로 확인된 34종 및 기술별 비율
 - [PRIORITY_THREATS_13_SPEED_2026-10-29.md](PRIORITY_THREATS_13_SPEED_2026-10-29.md): 사용자가 지정한 메가폼 5종을 반영한 선공기 위협군 13종의 스피드 종족값 내림차순 표
+- [LEAD_CANDIDATE_HYPOTHESES_2026-10-29.md](LEAD_CANDIDATE_HYPOTHESES_2026-10-29.md): 사용자가 의견을 요청하여 제안한 4개 선봉 후보의 근거, 한계, 대조 출처. **사용자가 승인한 채용 결정은 아님.**
 - 추가 자료 문서는 향후 조사 주제와 사용자의 지시에 따라 이 폴더 아래 생성한다.
 
 ## 과거와의 분리
