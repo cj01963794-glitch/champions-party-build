@@ -169,3 +169,15 @@
 - https://www.pokemon-zone.com/champions/ranked-seasons/singles/
 - https://gamewith.ai/pokemon-champions/en/articles/regulation-mc
 - https://agentrotom.com/breakdowns/hoshinjosh-blastoise-indeedee-reg-m-c-wmbzxvih6ae
+
+---
+
+## 사용자 — 구조 이해에 대한 피드백
+
+뭐 일단은 네가 이해한대로 가도 좋을 것 같아.
+
+## 어시스턴트 — 피드백 반영
+
+좋아. 에써르+거북왕에 대한 현재 설명은 **기본적인 아키타입 이해로 잠정 채택**할게. 다만 이건 우리 파티가 상대를 압도한다는 증거가 아니므로, 실제 세 마리 선출과 승리 수순을 검증할 때까지 `SETUP-002`의 필수 통과 상태는 **보류**로 유지하겠어.
+
+GitHub의 아키타입 문서, 판단 기록, 변경 이력에도 이 구분을 남겼어.
