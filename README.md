@@ -7,6 +7,7 @@
 ## 문서 안내
 
 - [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
+- [`docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md`](docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md): 필수 전개파티 05 — 팬텀·변덕쟁이 스코빌런·메가갸라도스 및 선출 위장
 - [`docs/archetypes/BATON_MEGA_CLEFABLE.md`](docs/archetypes/BATON_MEGA_CLEFABLE.md): 필수 전개파티 04 — 올리르바·클레스퍼트라·메가픽시 바톤 및 단독 랭크업 변형군
 - [`docs/archetypes/REVIVAL_TRADE_PAWMOT.md`](docs/archetypes/REVIVAL_TRADE_PAWMOT.md): 필수 전개파티 03 — 다크펫·빠르모트 부활·성묘/총대장 및 변형군
 - [`docs/archetypes/PSYCHIC_TERRAIN_BLASTOISE.md`](docs/archetypes/PSYCHIC_TERRAIN_BLASTOISE.md): 필수 전개파티 02 — 에써르·거북왕 사이코필드 및 혼합군
