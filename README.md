@@ -24,6 +24,14 @@
 - [`conversations/2026-10-28-initial-discussion.md`](conversations/2026-10-28-initial-discussion.md): 2026-10-28 최초 대화 기록
 - [`CHANGELOG.md`](CHANGELOG.md): 문서 버전과 변경 이력
 
+## 최신 사고력 검토와 기록 상태
+
+- [2026-10-29 사용자 B안 7항목 피드백 원문](conversations/2026-10-29-team-b-seven-point-feedback-verbatim.md)
+- [2026-10-29 B안 실패 반성문 전문](conversations/2026-10-29-team-b-self-criticism-complete.md)
+- [M6 최종 16위 리자그로스 출처 확인/6마리 구성](docs/matchups/OFFENSE_001_KEVIN_M6_CHARIZARD_METAGROSS.md)
+
+**과거 기록의 한계:** 이전 `conversations/` 파일 중 일부는 원문, 일부는 원문 발췌+어시스턴트 요약이다. 이 저장소가 과거 모든 채팅 메시지를 축자 보존한다고 주장할 수 없다. 기록은 GitHub 쓰기를 **실제로 실행했을 때만** 저장된다.
+
 ## 운영 원칙
 
 1. **conversations는 원문, docs는 사고방식의 현재 버전.** 두 계층을 분리한다.
