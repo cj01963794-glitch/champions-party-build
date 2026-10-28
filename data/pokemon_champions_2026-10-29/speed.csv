@@ -1,0 +1,347 @@
+pokemon,pokemonKo,ability,none,S32,S32_nature,default_nature
+Garchomp,한카리아스,Rough Skin,122,154,169,169
+Mega Garchomp,메가한카리아스,Sand Force,112,144,158,158
+Primarina,누리레느,Torrent,80,112,123,80
+Charizard,리자몽,Blaze,120,152,167,152
+Mega Charizard Y,메가리자몽Y,Drought,120,152,167,167
+Mega Charizard X,메가리자몽X,Tough Claws,120,152,167,152
+Corviknight,아머까오,Pressure,87,119,130,87
+Archaludon,브리두라스,Stamina,105,137,150,137
+Hippowdon,하마돈,Sand Stream,67,99,108,67
+Gengar,팬텀,Cursed Body,130,162,178,178
+Mega Gengar,메가팬텀,Shadow Tag,150,182,200,200
+Scizor,핫삼,Technician,85,117,128,85
+Mega Scizor,메가핫삼,Technician,95,127,139,95
+Aegislash,킬가르도 (실드폼),Stance Change,80,112,123,112
+Aegislash (Blade Forme),킬가르도 (블레이드폼),Stance Change,80,112,123,80
+Dragonite,망나뇽,Multiscale,100,132,145,132
+Mega Dragonite,메가망나뇽,Multiscale,120,152,167,152
+Meowscarada,마스카나,Protean,143,175,192,192
+Basculegion,대쓰여너 (수컷),Adaptability,98,130,143,143
+Basculegion (Female),대쓰여너 (암컷),Adaptability,98,130,143,130
+Kingambit,대도각참,Defiant,70,102,112,72
+Mimikyu,따라큐,Disguise Busted,116,148,162,148
+Lopunny,이어롭,Limber,125,157,172,172
+Mega Lopunny,메가이어롭,Scrappy,155,187,205,205
+Hydreigon,삼삼드래,Levitate,118,150,165,150
+Wash Rotom,워시로토무,Levitate,106,138,151,106
+Glimmora,킬라플로르,Toxic Debris,106,138,151,151
+Mega Glimmora,메가킬라플로르,Adaptability,121,153,168,168
+Umbreon,블래키,Inner Focus,85,117,128,85
+Delphox,마폭시,Blaze,124,156,171,171
+Mega Delphox,메가마폭시,Levitate,154,186,204,204
+Lucario,루카리오,Inner Focus,110,142,156,156
+Mega Lucario,메가루카리오,Adaptability,132,164,180,180
+Meganium,메가니움,Overgrow,100,132,145,132
+Mega Meganium,메가메가니움,Mega Sol,100,132,145,132
+Gyarados,갸라도스,Intimidate,101,133,146,133
+Mega Gyarados,메가갸라도스,Mold Breaker,101,133,146,133
+Greninja,개굴닌자,Protean,142,174,191,191
+Mega Greninja,메가개굴닌자,Protean,162,194,213,213
+Kangaskhan,캥카,Scrappy,110,142,156,110
+Mega Kangaskhan,메가캥카,Parental Bond,120,152,167,120
+Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,112,144,158,158
+Mega Floette,메가플라엣테,Fairy Aura,122,154,169,169
+Venusaur,이상해꽃,Chlorophyll,100,132,145,100
+Mega Venusaur,메가이상해꽃,Thick Fat,100,132,145,100
+Sneasler,포푸니크,Unburden,140,172,189,172
+Volcarona,불카모스,Flame Body,120,152,167,122
+Clefable,픽시,Unaware,80,112,123,80
+Mega Clefable,메가픽시,Magic Bounce,90,122,134,90
+Heat Rotom,히트로토무,Levitate,106,138,151,106
+Tyranitar,마기라스,Sand Stream,81,113,124,81
+Mega Tyranitar,메가마기라스,Sand Stream,91,123,135,91
+Starmie,아쿠스타,Natural Cure,135,167,183,167
+Mega Starmie,메가아쿠스타,Huge Power,140,172,189,172
+Sylveon,님피아,Pixilate,80,112,123,80
+Infernape,초염몽,Blaze,128,160,176,162
+Alakazam,후딘,Magic Guard,140,172,189,189
+Mega Alakazam,메가후딘,Trace,170,202,222,222
+Vaporeon,샤미드,Water Absorb,85,117,128,85
+Polteageist,포트데스,Weak Armor,90,122,134,122
+Crabominable,모단단게,Hyper Cutter,63,95,104,63
+Mega Crabominable,메가모단단게,Iron Fist,53,85,93,53
+Weavile,포푸니라,Pressure,145,177,194,194
+Heliolisk,일레도리자드,Dry Skin,129,161,177,177
+Hawlucha,루차불,Unburden,138,170,187,170
+Mega Hawlucha,메가루차불,No Guard,138,170,187,170
+Beedrill,독침붕,Swarm,95,127,139,139
+Mega Beedrill,메가독침붕,Adaptability,165,197,216,216
+Sharpedo,샤크니아,Speed Boost,115,147,161,147
+Mega Sharpedo,메가샤크니아,Strong Jaw,125,157,172,157
+Sableye,깜까미,Prankster,70,102,112,70
+Mega Sableye,메가깜까미,Magic Bounce,40,72,79,40
+Quaquaval,웨이니발,Moxie,105,137,150,150
+Feraligatr,장크로다일,Sheer Force,98,130,143,130
+Mega Feraligatr,메가장크로다일,Dragonize,98,130,143,130
+Espeon,에브이,Magic Bounce,130,162,178,178
+Sinistcha,그우린차,Heatproof,90,122,134,90
+Aggron,보스로라,Sturdy,70,102,112,70
+Mega Aggron,메가보스로라,Filter,70,102,112,70
+Slowbro,야도란,Regenerator,50,82,90,50
+Mega Slowbro,메가야도란,Shell Armor,50,82,90,50
+Orthworm,꿈트렁,Earth Eater,85,117,128,85
+Palafin,돌핀맨 (나이브폼),Zero to Hero,120,152,167,152
+Palafin (Hero Form),돌핀맨 (마이티폼),Zero to Hero,120,152,167,152
+Arcanine,윈디,Intimidate,115,147,161,115
+Aerodactyl,프테라,Unnerve,150,182,200,200
+Mega Aerodactyl,메가프테라,Tough Claws,170,202,222,222
+Chesnaught,브리가론,Bulletproof,84,116,127,84
+Mega Chesnaught,메가브리가론,Bulletproof,64,96,105,64
+Hisuian Arcanine,윈디 (히스이의 모습),Rock Head,110,142,156,142
+Ditto,메타몽,Imposter,68,100,110,68
+Chandelure,샹델라,Flash Fire Inactive,100,132,145,132
+Mega Chandelure,메가샹델라,Infiltrator,110,142,156,142
+Armarouge,카디나르마,Weak Armor,95,127,139,127
+Tinkaton,두드리짱,Mold Breaker,114,146,160,160
+Galarian Slowking,야도킹 (가라르의 모습),Regenerator,50,82,90,50
+Heracross,헤라크로스,Moxie,105,137,150,137
+Mega Heracross,메가헤라크로스,Skill Link,95,127,139,127
+Hisuian Samurott,대검귀 (히스이의 모습),Sharpness,105,137,150,137
+Conkeldurr,노보청,Iron Fist,65,97,106,65
+Milotic,밀로틱,Competitive,101,133,146,101
+Serperior,샤로다,Contrary,133,165,181,181
+Banette,다크펫,Frisk,85,117,128,85
+Mega Banette,메가다크펫,Prankster,95,127,139,95
+Incineroar,어흥염,Intimidate,80,112,123,80
+Hatterene,브리무음,Magic Bounce,49,81,89,49
+Hisuian Zoroark,조로아크 (히스이의 모습),Illusion,130,162,178,178
+Gallade,엘레이드,Sharpness,100,132,145,132
+Mega Gallade,메가엘레이드,Inner Focus,130,162,178,162
+Araquanid,깨비물거미,Water Bubble,62,94,103,68
+Whimsicott,엘풍,Prankster,136,168,184,184
+Kleavor,사마자르,Sharpness,105,137,150,137
+Alolan Ninetales,나인테일 (알로라의 모습),Snow Warning,129,161,177,177
+Hisuian Goodra,미끄래곤 (히스이의 모습),Gooey,80,112,123,80
+Gardevoir,가디안,Trace,100,132,145,132
+Mega Gardevoir,메가가디안,Pixilate,120,152,167,152
+Scovillain,스코빌런,Moody,95,127,139,106
+Mega Scovillain,메가스코빌런,Spicy Spray,95,127,139,106
+Froslass,눈여아,Cursed Body,130,162,178,178
+Mega Froslass,메가눈여아,Snow Warning,140,172,189,189
+Skarmory,무장조,Sturdy,90,122,134,90
+Mega Skarmory,메가무장조,Stalwart,130,162,178,130
+Ceruledge,파라블레이즈,Weak Armor,105,137,150,137
+Excadrill,몰드류,Mold Breaker,108,140,154,154
+Mega Excadrill,메가몰드류,Piercing Drill,123,155,170,170
+Victreebel,우츠보트,Chlorophyll,90,122,134,92
+Mega Victreebel,메가우츠보트,Innards Out,90,122,134,92
+Blastoise,거북왕,Torrent,98,130,143,130
+Mega Blastoise,메가거북왕,Mega Launcher,98,130,143,130
+Empoleon,엠페르트,Competitive,80,112,123,80
+Snorlax,잠만보,Thick Fat,50,82,90,50
+Diggersby,파르토,Huge Power,98,130,143,130
+Mamoswine,맘모꾸리,Oblivious,100,132,145,132
+Bellibolt,찌리배리,Electromorphosis,65,97,106,65
+Pelipper,패리퍼,Drizzle,85,117,128,117
+Azumarill,마릴리,Huge Power,70,102,112,72
+Espathra,클레스퍼트라,Speed Boost,125,157,172,157
+Toxapex,더시마사리,Regenerator,55,87,95,55
+Skeledirge,라우드본,Unaware,86,118,129,86
+Dragapult,드래펄트,Infiltrator,162,194,213,213
+Floette,플라엣테,Flower Veil,72,104,114,114
+Toucannon,왕큰부리,Skill Link,80,112,123,112
+Hisuian Typhlosion,블레이범 (히스이의 모습),Frisk,115,147,161,161
+Chimecho,치렁,Levitate,85,117,128,85
+Mega Chimecho,메가치렁,Levitate,85,117,128,85
+Garganacl,콜로솔트,Purifying Salt,55,87,95,55
+Pinsir,쁘사이저,Moxie,105,137,150,150
+Mega Pinsir,메가쁘사이저,Aerilate,125,157,172,172
+Maushold,파밀리쥐,Technician,131,163,179,179
+Talonflame,파이어로,Gale Wings,146,178,195,195
+Vivillon,비비용,Compound Eyes,109,141,155,155
+Abomasnow,눈설왕,Snow Warning,80,112,123,80
+Mega Abomasnow,메가눈설왕,Snow Warning,50,82,90,50
+Galarian Slowbro,야도란 (가라르의 모습),Quick Draw,50,82,90,50
+Lycanroc (Dusk Form),루가루암 (황혼의 모습),Tough Claws,130,162,178,178
+Mudsdale,만마드,Stamina,55,87,95,55
+Emboar,염무왕,Reckless,85,117,128,85
+Mega Emboar,메가염무왕,Mold Breaker,95,127,139,95
+Manectric,썬더볼트,Lightning Rod,125,157,172,172
+Mega Manectric,메가썬더볼트,Intimidate,155,187,205,205
+Mow Rotom,커트로토무,Levitate,106,138,151,138
+Altaria,파비코리,Cloud Nine,100,132,145,100
+Mega Altaria,메가파비코리,Pixilate,100,132,145,100
+Gliscor,글라이온,Poison Heal,115,147,161,147
+Paldean Tauros (Blaze Breed),켄타로스 (팔데아의 모습/블레이즈종),Intimidate,120,152,167,152
+Jolteon,쥬피썬더,Volt Absorb,150,182,200,200
+Pidgeot,피죤투,Big Pecks,121,153,168,168
+Mega Pidgeot,메가피죤투,No Guard,141,173,190,190
+Hisuian Decidueye,모크나이퍼 (히스이의 모습),Scrappy,80,112,123,112
+Salazzle,염뉴트,Corrosion,137,169,185,185
+Machamp,괴력몬,No Guard,75,107,117,75
+Torterra,토대부기,Overgrow,76,108,118,118
+Ampharos,전룡,Static,75,107,117,75
+Mega Ampharos,메가전룡,Mold Breaker,65,97,106,65
+Runerigus,데스판,Wandering Spirit,50,82,90,50
+Glaceon,글레이시아,Snow Cloak,85,117,128,117
+Kommo-o,짜랑고우거,Bulletproof,105,137,150,137
+Torkoal,코터스,Drought,40,72,79,40
+Forretress,쏘콘,Sturdy,60,92,101,60
+Krookodile,악비아르,Intimidate,112,144,158,158
+Medicham,요가램,Pure Power,100,132,145,132
+Mega Medicham,메가요가램,Pure Power,120,152,167,152
+Steelix,강철톤,Sturdy,50,82,90,52
+Mega Steelix,메가강철톤,Sand Force,50,82,90,52
+Tsareena,달코퀸,Queenly Majesty,92,124,136,124
+Politoed,왕구리,Drizzle,90,122,134,90
+Cofagrigus,데스니칸,Mummy,50,82,90,50
+Goodra,미끄래곤,Gooey,100,132,145,100
+Drampa,할비롱,Berserk,56,88,96,56
+Mega Drampa,메가할비롱,Berserk,56,88,96,56
+Vanilluxe,배바닐라,Snow Warning,99,131,144,113
+Slurpuff,나루림,Unburden,92,124,136,114
+Noivern,음번,Frisk,143,175,192,192
+Absol,앱솔,Justified,95,127,139,127
+Mega Absol,메가앱솔,Magic Bounce,135,167,183,167
+Ariados,아리아도스,Insomnia,60,92,101,101
+Glalie,얼음귀신,Moody,100,132,145,145
+Mega Glalie,메가얼음귀신,Refrigerate,120,152,167,167
+Slowking,야도킹,Regenerator,50,82,90,50
+Hisuian Avalugg,크레베이스 (히스이의 모습),Sturdy,58,90,99,58
+Clawitzer,블로스터,Mega Launcher,79,111,122,79
+Zoroark,조로아크,Illusion,125,157,172,172
+Rhyperior,거대코뿌리,Solid Rock,60,92,101,60
+Avalugg,크레베이스,Sturdy,48,80,88,48
+Hydrapple,과미드라,Regenerator,64,96,105,64
+Klefki,클레피,Prankster,95,127,139,95
+Farigiraf,키키링,Armor Tail,80,112,123,80
+Pikachu,피카츄,Static,110,142,156,156
+Spiritomb,화강돌,Infiltrator,55,87,95,55
+Roserade,로즈레이드,Natural Cure,110,142,156,142
+Morpeko,모르페코,Hunger Switch,117,149,163,149
+Golurk,골루그,Iron Fist,75,107,117,75
+Mega Golurk,메가골루그,Unseen Fist,75,107,117,75
+Houndoom,헬가,Early Bird,115,147,161,161
+Mega Houndoom,메가헬가,Solar Power,135,167,183,183
+Alcremie,마휘핑,Aroma Veil,84,116,127,84
+Sandaconda,사다이사,Sand Spit,91,123,135,123
+Reuniclus,란쿨루스,Magic Guard,50,82,90,50
+Paldean Tauros (Aqua Breed),켄타로스 (팔데아의 모습/워터종),Intimidate,120,152,167,152
+Frost Rotom,프로스트로토무,Levitate,106,138,151,138
+Meowstic,냐오닉스 (수컷),Prankster,124,156,171,156
+Ninetales,나인테일,Drought,120,152,167,167
+Typhlosion,블레이범,Blaze,120,152,167,152
+Toxicroak,독개굴,Dry Skin,105,137,150,137
+Aurorus,아마루르가,Snow Warning,78,110,121,110
+Stunfisk,메더,Static,52,84,92,52
+Trevenant,대로트,Harvest,76,108,118,76
+Tyrantrum,견고라스,Rock Head,91,123,135,123
+Luxray,렌트라,Intimidate,90,122,134,90
+Camerupt,폭타,Solid Rock,60,92,101,60
+Mega Camerupt,메가폭타,Sheer Force,40,72,79,40
+Pangoro,부란다,Scrappy,78,110,121,78
+Leafeon,리피아,Chlorophyll,115,147,161,147
+Emolga,에몽가,Motor Drive,123,155,170,170
+Flareon,부스터,Flash Fire Inactive,85,117,128,117
+Decidueye,모크나이퍼,Long Reach,90,122,134,122
+Florges,플라제스,Flower Veil,95,127,139,95
+Bastiodon,바리톱스,Sturdy,50,82,90,50
+Raichu,라이츄,Lightning Rod,130,162,178,178
+Alolan Raichu,라이츄 (알로라의 모습),Surge Surfer,130,162,178,162
+Meowstic (Female),냐오닉스 (암컷),Competitive,124,156,171,171
+Mega Meowstic,메가냐오닉스,Trace,144,176,193,176
+Gourgeist (Small Size),펌킨인 (소사이즈),Insomnia,119,151,166,166
+Rampardos,램펄드,Sheer Force,78,110,121,110
+Appletun,단지래플,Thick Fat,50,82,90,50
+Wyrdeer,신비록,Intimidate,85,117,128,85
+Dedenne,데덴네,Cheek Pouch,121,153,168,168
+Audino,다부니,Regenerator,70,102,112,70
+Mega Audino,메가다부니,Healer,70,102,112,70
+Fan Rotom,스핀로토무,Levitate,106,138,151,151
+Galarian Stunfisk,메더 (가라르의 모습),Mimicry,52,84,92,52
+Lycanroc,루가루암 (한낮의 모습),Sand Rush,132,164,180,180
+Mr. Rime,마임꽁꽁,Screen Cleaner,90,122,134,122
+Arbok,아보크,Intimidate,100,132,145,110
+Beartic,툰베어,Slush Rush,70,102,112,112
+Furfrou,트리미앙,Fur Coat,122,154,169,122
+Liepard,레파르다스,Prankster,126,158,173,138
+Flapple,애프룡,Hustle,90,122,134,134
+Garbodor,더스트나,Weak Armor,95,127,139,127
+Lycanroc (Midnight Form),루가루암 (한밤중의 모습),No Guard,102,134,147,134
+Samurott,대검귀,Shell Armor,90,122,134,90
+Tauros,켄타로스,Sheer Force,130,162,178,178
+Oranguru,하랑우탄,Inner Focus,80,112,123,80
+Simipour,앗차키,Torrent,121,153,168,153
+Passimian,내던숭이,Defiant,100,132,145,132
+Aromatisse,프레프티르,Aroma Veil,49,81,89,49
+Simisear,바오키,Blaze,121,153,168,168
+Watchog,보르그,Analytic,97,129,141,103
+Simisage,야나키,Overgrow,121,153,168,153
+Rotom,로토무,Levitate,111,143,157,157
+Castform,캐스퐁,Forecast,90,122,134,96
+Paldean Tauros (Combat Breed),켄타로스 (팔데아의 모습/컴뱃종),Intimidate,120,152,167,152
+Mega Raichu X,메가라이츄X,Electric Surge,130,162,178,178
+Mega Raichu Y,메가라이츄Y,No Guard,150,182,200,200
+Vileplume,라플레시아,Effect Spore,70,102,112,70
+Qwilfish,침바루,Intimidate,105,137,150,105
+Sceptile,나무킹,Overgrow,140,172,189,189
+Mega Sceptile,메가나무킹,Lightning Rod,165,197,216,216
+Blaziken,번치코,Speed Boost,100,132,145,132
+Mega Blaziken,메가번치코,Speed Boost,120,152,167,152
+Swampert,대짱이,Torrent,80,112,123,112
+Mega Swampert,메가대짱이,Swift Swim,90,122,134,122
+Mawile,입치트,Intimidate,70,102,112,70
+Mega Mawile,메가입치트,Huge Power,70,102,112,70
+Metagross,메타그로스,Clear Body,90,122,134,122
+Mega Metagross,메가메타그로스,Tough Claws,130,162,178,162
+Staraptor,찌르호크,Intimidate,120,152,167,167
+Mega Staraptor,메가찌르호크,Contrary,130,162,178,178
+Musharna,몽얌나,Synchronize,49,81,89,49
+Scolipede,펜드라,Speed Boost,132,164,180,164
+Mega Scolipede,메가펜드라,Shell Armor,82,114,125,114
+Scrafty,곤율거니,Intimidate,78,110,121,110
+Mega Scrafty,메가곤율거니,Intimidate,88,120,132,120
+Eelektross,저리더프,Levitate,70,102,112,70
+Mega Eelektross,메가저리더프,Eelevate,100,132,145,100
+Pyroar,화염레오,Unnerve,126,158,173,173
+Mega Pyroar,메가화염레오,Fire Mane,146,178,195,195
+Malamar,칼라마네로,Contrary,93,125,137,93
+Mega Malamar,메가칼라마네로,Contrary,108,140,154,108
+Barbaracle,거북손데스,Tough Claws,88,120,132,120
+Mega Barbaracle,메가거북손데스,Tough Claws,108,140,154,140
+Grimmsnarl,오롱털,Prankster,80,112,123,80
+Falinks,대여르,Defiant,95,127,139,127
+Mega Falinks,메가대여르,Defiant,120,152,167,152
+Houndstone,묘두기,Fluffy,88,120,132,120
+Annihilape,저승갓숭,Defiant,110,142,156,110
+Gholdengo,타부자고,Good as Gold,104,136,149,136
+Dragalge,드래캄,Adaptability,64,96,105,64
+Mega Dragalge,메가드래캄,Regenerator,64,96,105,64
+Gourgeist (Large Size),펌킨인 (대사이즈),Frisk,89,121,133,121
+Gourgeist (Super Size),펌킨인 (특대사이즈),Insomnia,74,106,116,76
+Morpeko (Hangry Mode),모르페코 (헝그리 모드),Hunger Switch,117,149,163,163
+Overqwil,장침바루,Intimidate,105,137,150,150
+Gourgeist,펌킨인 (보통사이즈),Insomnia,104,136,149,104
+Wigglytuff,푸크린,Competitive,65,97,106,65
+Persian,페르시온,Technician,135,167,183,141
+Alolan Persian,페르시온 (알로라의 모습),Fur Coat,135,167,183,137
+Perrserker,나이킹,Tough Claws,70,102,112,70
+Farfetch'd,파오리,Defiant,80,112,123,112
+Swalot,꿀꺽몬,Liquid Ooze,75,107,117,75
+Salamence,보만다,Intimidate,120,152,167,152
+Gogoat,고고트,Grass Pelt,88,120,132,90
+Golisopod,갑주무사,Emergency Exit,60,92,101,60
+Rillaboom,고릴타,Grassy Surge,105,137,150,107
+Cinderace,에이스번,Libero,139,171,188,188
+Inteleon,인텔리레온,Sniper,140,172,189,189
+Thievul,폭슬라이,Run Away,110,142,156,142
+Toxtricity,스트린더 (하이한 모습),Punk Rock,95,127,139,127
+Toxtricity (Low Key Form),스트린더 (로우한 모습),Punk Rock,95,127,139,127
+Grapploct,케오퍼스,Technician,62,94,103,62
+Sirfetch'd,창파나이트,Scrappy,85,117,128,117
+Pincurchin,찌르성게,Electric Surge,35,67,73,35
+Indeedee (Female),에써르 (암컷),Psychic Surge,105,137,150,105
+Indeedee,에써르 (수컷),Psychic Surge,115,147,161,161
+Arboliva,올리르바,Seed Sower,59,91,100,59
+Squawkabilly,시비꼬,Intimidate,112,144,158,158
+Mabosstiff,마피티프,Intimidate,105,137,150,105
+Baxcalibur,드닐레이브,Thermal Exchange,107,139,152,139
+Mega Absol Z,메가앱솔Z,Sharpness,171,203,223,223
+Mega Garchomp Z,메가한카리아스Z,Levitate,171,203,223,223
+Mega Lucario Z,메가루카리오Z,Aura Guard,171,203,223,223
+Mega Salamence,메가보만다,Aerilate,140,172,189,172
+Mega Golisopod,메가갑주무사,Tough Claws,60,92,101,60
+Mega Baxcalibur,메가드닐레이브,Thermal Exchange,107,139,152,139
+Pawmot,빠르모트,Iron Fist,125,157,172,172
+Mr. Mime,마임맨,Filter,110,142,156,142
