@@ -7,6 +7,7 @@
 ## 문서 안내
 
 - [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
+- [`docs/VALIDATION_FRAMEWORK.md`](docs/VALIDATION_FRAMEWORK.md): 기존 랭커 파티 대비 우월성 검증 프레임워크 (AI 제안/검토 전)
 - [`docs/DECISION_LOG.md`](docs/DECISION_LOG.md): 피드백·합의·보류 사항과 판단 이유
 - [`docs/RECORDING_POLICY.md`](docs/RECORDING_POLICY.md): 대화 원문 보존과 문서 개정 방법
 - [`conversations/`](conversations/): 날짜·주제별 대화 원문 아카이브 (과거 기록 보존)
