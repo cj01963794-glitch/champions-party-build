@@ -391,16 +391,16 @@ Kangaskhan,캥카,Scrappy,Double-Edge,이판사판태클,normal,physical,120,120
 Kangaskhan,캥카,Scrappy,Fire Punch,불꽃펀치,fire,physical,75,75,1,17.2,8625,11025,12075,reproduced_static,
 Kangaskhan,캥카,Scrappy,Drain Punch,드레인펀치,fighting,physical,75,75,1,10.6,8625,11025,12075,reproduced_static,
 Kangaskhan,캥카,Scrappy,Thunder Punch,번개펀치,electric,physical,75,75,1,6.7,8625,11025,12075,reproduced_static,
-Mega Kangaskhan,메가캥카,Parental Bond,Ice Punch,냉동펀치,ice,physical,75,75,1,80.4,10875,13275,14550,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Earthquake,지진,ground,physical,100,100,1,75.6,14500,17700,19400,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Body Slam,누르기,normal,physical,85,85,1,59.7,18487,22567,24735,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Circle Throw,배대뒤치기,fighting,physical,60,60,1,37,8700,10620,11640,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Sucker Punch,기습,dark,physical,70,70,1,31.6,10150,12390,13580,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Fake Out,속이기,normal,physical,40,40,1,25.5,8700,10620,11640,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Double-Edge,이판사판태클,normal,physical,120,120,1,18.2,26100,31860,34920,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Fire Punch,불꽃펀치,fire,physical,75,75,1,17.2,10875,13275,14550,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Drain Punch,드레인펀치,fighting,physical,75,75,1,10.6,10875,13275,14550,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
-Mega Kangaskhan,메가캥카,Parental Bond,Thunder Punch,번개펀치,electric,physical,75,75,1,6.7,10875,13275,14550,ability_condition_unchecked,ability has unimplemented conditional/triggered mechanics
+Mega Kangaskhan,메가캥카,Parental Bond,Ice Punch,냉동펀치,ice,physical,75,75,1,80.4,13593,16593,18187,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Earthquake,지진,ground,physical,100,100,1,75.6,18125,22125,24250,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Body Slam,누르기,normal,physical,85,85,1,59.7,23109,28209,30918,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Circle Throw,배대뒤치기,fighting,physical,60,60,1,37,10875,13275,14550,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Sucker Punch,기습,dark,physical,70,70,1,31.6,12687,15487,16975,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Fake Out,속이기,normal,physical,40,40,1,25.5,10875,13275,14550,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Double-Edge,이판사판태클,normal,physical,120,120,1,18.2,32625,39825,43650,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Fire Punch,불꽃펀치,fire,physical,75,75,1,17.2,13593,16593,18187,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Drain Punch,드레인펀치,fighting,physical,75,75,1,10.6,13593,16593,18187,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
+Mega Kangaskhan,메가캥카,Parental Bond,Thunder Punch,번개펀치,electric,physical,75,75,1,6.7,13593,16593,18187,reproduced_static,Parental Bond: two hits, combined offensive-power ×1.25
 Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,Moonblast,문포스,fairy,special,95,95,1,95.2,20662,25222,27645,reproduced_static,
 Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,Calm Mind,명상,psychic,status,0,,,93.2,,,,requires_context,"Status, fixed-damage or target-/battle-dependent base power"
 Floette (Eternal Flower),플라엣테 (영원의 꽃),Flower Veil,Synthesis,광합성,grass,status,0,,,59.3,,,,requires_context,"Status, fixed-damage or target-/battle-dependent base power"
