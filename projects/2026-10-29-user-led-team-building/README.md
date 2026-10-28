@@ -26,6 +26,7 @@
 
 - [SESSION_LOG.md](SESSION_LOG.md): 프로젝트 출범 및 이후 명시적으로 저장된 대화·결정
 - [LEAD_SELECTION_CRITERIA.md](LEAD_SELECTION_CRITERIA.md): 사용자가 제시한 비메가 선봉의 평가 기준, 맘모꾸리·팬텀 예시 및 미검증 지점
+- [PRIORITY_MOVES_TOP70_2026-10-28.md](PRIORITY_MOVES_TOP70_2026-10-28.md): 2026-10-28 싱글 사용률 상위 70종 중 선공기 채용이 공개 통계로 확인된 34종 및 기술별 비율
 - 추가 자료 문서는 향후 조사 주제와 사용자의 지시에 따라 이 폴더 아래 생성한다.
 
 ## 과거와의 분리
