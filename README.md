@@ -9,6 +9,7 @@
 - [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
 - [`docs/archetypes/RAIN_TEAM.md`](docs/archetypes/RAIN_TEAM.md): 필수 전개파티 01 — 사용자 제공 M6 비파티 코어와 변형군
 - [`docs/REQUIRED_SETUP_MATCHUPS.md`](docs/REQUIRED_SETUP_MATCHUPS.md): 출현 빈도와 무관하게 반드시 압도해야 할 정형 전개파티 검증
+- [`docs/SET_VARIANT_ANALYSIS.md`](docs/SET_VARIANT_ANALYSIS.md): 상대 기술·도구·수치 변형의 영향도와 기회비용 분석
 - [`docs/MATCHUP_AUDIT_PROTOCOL.md`](docs/MATCHUP_AUDIT_PROTOCOL.md): 모든 주요 상대 파티에 적용할 선출·승리 플랜 검증 절차
 - [`docs/MATCHUP_REGISTRY.md`](docs/MATCHUP_REGISTRY.md): 사용자 제공 예정인 파티 목록의 검토 현황
 - [`docs/VALIDATION_FRAMEWORK.md`](docs/VALIDATION_FRAMEWORK.md): 기존 랭커 파티 대비 우월성 검증 프레임워크 (AI 제안/검토 전)
