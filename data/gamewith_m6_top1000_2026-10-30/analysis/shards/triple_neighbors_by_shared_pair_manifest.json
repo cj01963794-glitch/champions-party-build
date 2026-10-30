@@ -1,0 +1,23 @@
+{
+  "file": "triple_neighbors_by_shared_pair.csv",
+  "shards": [
+    {
+      "filename": "triple_neighbors_by_shared_pair_01.csv",
+      "start": 1,
+      "end": 4628,
+      "rows": 4628
+    },
+    {
+      "filename": "triple_neighbors_by_shared_pair_02.csv",
+      "start": 4629,
+      "end": 9340,
+      "rows": 4712
+    },
+    {
+      "filename": "triple_neighbors_by_shared_pair_03.csv",
+      "start": 9341,
+      "end": 11706,
+      "rows": 2366
+    }
+  ]
+}
