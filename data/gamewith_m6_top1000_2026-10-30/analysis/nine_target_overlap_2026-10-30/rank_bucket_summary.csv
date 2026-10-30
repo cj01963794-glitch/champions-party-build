@@ -1,0 +1,5 @@
+﻿rank_bucket,n_all_records,none,exactly_one,exactly_two,exactly_three,four_plus,at_least_two,at_least_two_fraction
+001-050,29,0,15,12,2,0,14,0.48275862
+051-100,39,2,25,10,2,0,12,0.30769231
+101-300,112,14,52,44,2,0,46,0.41071429
+301-1000,105,24,42,37,2,0,39,0.37142857

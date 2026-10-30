@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-30",
+  "source": "data/gamewith_m6_top1000_2026-10-30/parties.csv",
+  "targets": [
+    "갑주무사",
+    "리자몽",
+    "루카리오",
+    "망나뇽",
+    "메타그로스",
+    "보만다",
+    "팬텀",
+    "거북왕",
+    "플라엣테(영원)"
+  ],
+  "original_source_rows": 296,
+  "complete_teams": 285,
+  "distribution": [
+    40,
+    134,
+    103,
+    8,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "at_least_two": 111,
+  "exactly_two": 103,
+  "exactly_three": 8,
+  "at_least_four": 0,
+  "distinct_exact_sets": 39,
+  "nonzero_pairs": 34,
+  "pair_count_total": 127,
+  "triple_nonzero": 8,
+  "q_significant_pairs": [
+    {
+      "a": "리자몽",
+      "b": "보만다",
+      "observed": 2,
+      "lift": 0.23779725,
+      "q": 0.04304221
+    },
+    {
+      "a": "루카리오",
+      "b": "메타그로스",
+      "observed": 1,
+      "lift": 0.12954545,
+      "q": 0.02873345
+    },
+    {
+      "a": "망나뇽",
+      "b": "보만다",
+      "observed": 1,
+      "lift": 0.13629842,
+      "q": 0.03033972
+    },
+    {
+      "a": "갑주무사",
+      "b": "루카리오",
+      "observed": 0,
+      "lift": 0,
+      "q": 0.02873345
+    },
+    {
+      "a": "리자몽",
+      "b": "망나뇽",
+      "observed": 0,
+      "lift": 0,
+      "q": 0.01656732
+    }
+  ],
+  "tests": "Fisher exact two-sided; BH FDR across 36 pair tests. Source ranks not assumed comprehensive of 1-972.",
+  "checks": {
+    "original_records_296": true,
+    "complete_285": true,
+    "target_occurrences_364": true,
+    "counted_members_equal_hist": true,
+    "hist_sum_285": true,
+    "at_least_two_111": true,
+    "exactly_two_103": true,
+    "exactly_three_8": true,
+    "zero_four_plus": true,
+    "exact_signature_sum": true,
+    "pairs36": true,
+    "triples84": true,
+    "pair_occurrences_127": true,
+    "pair_occurrence_matches_hist": true,
+    "triple_occurrences_matches_hist": true,
+    "exact_pair_records_103": true,
+    "triple_only_8": true,
+    "rank_buckets_complete": true,
+    "source_ids_unique": true,
+    "pair_q_36": true
+  }
+}
