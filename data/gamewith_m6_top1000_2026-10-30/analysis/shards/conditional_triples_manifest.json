@@ -1,0 +1,53 @@
+{
+  "file": "conditional_triples.csv",
+  "shards": [
+    {
+      "filename": "conditional_triples_01.csv",
+      "start": 1,
+      "end": 1785,
+      "rows": 1785
+    },
+    {
+      "filename": "conditional_triples_02.csv",
+      "start": 1786,
+      "end": 3601,
+      "rows": 1816
+    },
+    {
+      "filename": "conditional_triples_03.csv",
+      "start": 3602,
+      "end": 5438,
+      "rows": 1837
+    },
+    {
+      "filename": "conditional_triples_04.csv",
+      "start": 5439,
+      "end": 7308,
+      "rows": 1870
+    },
+    {
+      "filename": "conditional_triples_05.csv",
+      "start": 7309,
+      "end": 9209,
+      "rows": 1901
+    },
+    {
+      "filename": "conditional_triples_06.csv",
+      "start": 9210,
+      "end": 11102,
+      "rows": 1893
+    },
+    {
+      "filename": "conditional_triples_07.csv",
+      "start": 11103,
+      "end": 13014,
+      "rows": 1912
+    },
+    {
+      "filename": "conditional_triples_08.csv",
+      "start": 13015,
+      "end": 14904,
+      "rows": 1890
+    }
+  ]
+}
