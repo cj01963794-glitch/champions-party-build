@@ -7,6 +7,7 @@
 ## 문서 안내
 
 - [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
+- **[포켓몬 조합의 기준선 비교 필수 원칙](docs/COMBINATION_BASELINE_PRINCIPLE.md)**: 모든 기준 포켓몬 A의 동반 조합 분석에서 원래 흔한 B+C를 A 특유의 핵심 조합으로 오인하지 않도록, A 비채용군의 B+C 동시 채용률·기대 대비로 검증.
 - [`docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md`](docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md): 필수 전개파티 05 — 팬텀·변덕쟁이 스코빌런·메가갸라도스 및 선출 위장
 - [`docs/archetypes/BATON_MEGA_CLEFABLE.md`](docs/archetypes/BATON_MEGA_CLEFABLE.md): 필수 전개파티 04 — 올리르바·클레스퍼트라·메가픽시 바톤 및 단독 랭크업 변형군
 - [`docs/archetypes/REVIVAL_TRADE_PAWMOT.md`](docs/archetypes/REVIVAL_TRADE_PAWMOT.md): 필수 전개파티 03 — 다크펫·빠르모트 부활·성묘/총대장 및 변형군
