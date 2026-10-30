@@ -1,0 +1,47 @@
+{
+  "file": "conditional_pairs.csv",
+  "shards": [
+    {
+      "filename": "conditional_pairs_01.csv",
+      "start": 1,
+      "end": 1829,
+      "rows": 1829
+    },
+    {
+      "filename": "conditional_pairs_02.csv",
+      "start": 1830,
+      "end": 3663,
+      "rows": 1834
+    },
+    {
+      "filename": "conditional_pairs_03.csv",
+      "start": 3664,
+      "end": 5555,
+      "rows": 1892
+    },
+    {
+      "filename": "conditional_pairs_04.csv",
+      "start": 5556,
+      "end": 7479,
+      "rows": 1924
+    },
+    {
+      "filename": "conditional_pairs_05.csv",
+      "start": 7480,
+      "end": 9437,
+      "rows": 1958
+    },
+    {
+      "filename": "conditional_pairs_06.csv",
+      "start": 9438,
+      "end": 11508,
+      "rows": 2071
+    },
+    {
+      "filename": "conditional_pairs_07.csv",
+      "start": 11509,
+      "end": 11707,
+      "rows": 199
+    }
+  ]
+}
