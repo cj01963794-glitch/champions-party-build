@@ -7,6 +7,7 @@
 ## 문서 안내
 
 - [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
+- **[메리랜드 5편의 발전 과정에서 추출한 구축 철학 (v1.2)](docs/MERRYLAND_BUILD_PROCESS_PHILOSOPHY.md)**: 2017 비나리자→S3 메리랜드→S8→S12→S13, 강한 압박 발굴·상대 대응 역이용·기점과 실제 승리 분리 검증·다중 승리 경로·3v3 선출·메타 적합성·재설계의 반복 과정. 사용자 요청으로 추구할 방법론에 편입, 포챔스 실전 검증은 별도.
 - **[포켓몬 조합의 기준선 비교 필수 원칙](docs/COMBINATION_BASELINE_PRINCIPLE.md)**: 모든 기준 포켓몬 A의 동반 조합 분석에서 원래 흔한 B+C를 A 특유의 핵심 조합으로 오인하지 않도록, A 비채용군의 B+C 동시 채용률·기대 대비로 검증.
 - [`docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md`](docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md): 필수 전개파티 05 — 팬텀·변덕쟁이 스코빌런·메가갸라도스 및 선출 위장
 - [`docs/archetypes/BATON_MEGA_CLEFABLE.md`](docs/archetypes/BATON_MEGA_CLEFABLE.md): 필수 전개파티 04 — 올리르바·클레스퍼트라·메가픽시 바톤 및 단독 랭크업 변형군
