@@ -7,6 +7,7 @@
 ## 문서 안내
 
 - [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
+- **[눈파티 플레이 성향 — 대면 안정성·전략 읽기·화력·형태 다양성·운 억제 (v1.3)](docs/NOONPARTY_PLAYSTYLE_PHILOSOPHY.md)**: 사용자 제공 나무위키 성향을 앞으로 지향할 철학으로 채택. 타입 상성 보완은 실제 3v3 전개로 검증, 강하고 다양한 형태와 실전 화력 중시, 운 의존을 최소화하되 수비/사이클·확률 기술의 합리적 활용은 허용.
 - **[메리랜드 5편의 발전 과정에서 추출한 구축 철학 (v1.2)](docs/MERRYLAND_BUILD_PROCESS_PHILOSOPHY.md)**: 2017 비나리자→S3 메리랜드→S8→S12→S13, 강한 압박 발굴·상대 대응 역이용·기점과 실제 승리 분리 검증·다중 승리 경로·3v3 선출·메타 적합성·재설계의 반복 과정. 사용자 요청으로 추구할 방법론에 편입, 포챔스 실전 검증은 별도.
 - **[포켓몬 조합의 기준선 비교 필수 원칙](docs/COMBINATION_BASELINE_PRINCIPLE.md)**: 모든 기준 포켓몬 A의 동반 조합 분석에서 원래 흔한 B+C를 A 특유의 핵심 조합으로 오인하지 않도록, A 비채용군의 B+C 동시 채용률·기대 대비로 검증.
 - [`docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md`](docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md): 필수 전개파티 05 — 팬텀·변덕쟁이 스코빌런·메가갸라도스 및 선출 위장
@@ -68,6 +69,8 @@
 - [이번 채팅의 발화 흐름·어시스턴트 분석 요약·포챔스 적용 사고 과정](conversations/2026-11-03-merryland-research-dialogue-and-framework.md)
 - [어시스턴트 답변 텍스트 1/2 — S8·S12·S13](conversations/2026-11-03-merryland-assistant-replies-part1.md)
 - [어시스턴트 답변 텍스트 2/2 — 구축 사고 과정·포챔스 S1](conversations/2026-11-03-merryland-assistant-replies-part2.md)
+
+- [2026-11-03 눈파티 성향에 관한 사용자 제공 나무위키 발췌](conversations/2026-11-03-noonparty-namuwiki-style-user-source.md)
 
 > 원문 전사는 블로그 복사본의 장식 링크·서식을 일부 정리한 기록이며, 어시스턴트 응답의 상세 요약과 별도의 답변 텍스트 기록을 모두 제공한다. 일부 UI 도식은 Markdown으로 바꾸었다. 사용자 제공 사실과 검증 전 구축 가설을 구분한다.
 
