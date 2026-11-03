@@ -65,5 +65,7 @@
 - [7세대 S8·S12 사용자 제공 구축글 본문 중심 전사](conversations/2026-11-03-merryland-s8-s12-user-posts.md)
 - [7세대 S13 및 포챔스 시즌1 사용자 제공 구축글 본문 중심 전사](conversations/2026-11-03-merryland-s13-champions-s1-user-posts.md)
 - [이번 채팅의 발화 흐름·어시스턴트 분석 요약·포챔스 적용 사고 과정](conversations/2026-11-03-merryland-research-dialogue-and-framework.md)
+- [어시스턴트 답변 텍스트 1/2 — S8·S12·S13](conversations/2026-11-03-merryland-assistant-replies-part1.md)
+- [어시스턴트 답변 텍스트 2/2 — 구축 사고 과정·포챔스 S1](conversations/2026-11-03-merryland-assistant-replies-part2.md)
 
-> 원문 전사는 블로그 복사본의 장식 링크·서식을 일부 정리한 기록이며, 어시스턴트 응답은 상세 요약이다. 사용자 제공 사실과 검증 전 구축 가설을 구분한다.
+> 원문 전사는 블로그 복사본의 장식 링크·서식을 일부 정리한 기록이며, 어시스턴트 응답의 상세 요약과 별도의 답변 텍스트 기록을 모두 제공한다. 일부 UI 도식은 Markdown으로 바꾸었다. 사용자 제공 사실과 검증 전 구축 가설을 구분한다.
