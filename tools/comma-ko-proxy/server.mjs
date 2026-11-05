@@ -127,3 +127,22 @@ http.createServer(async(req,res)=>{
   console.log('[APP_DIAG] start',js.slice(0,1500));
  }catch(e){console.log('[APP_DIAG] ERROR',String(e));}
 })();
+
+(async function probeBackend() {
+ try{
+  const html=await (await fetch(ORIGIN)).text();
+  console.log('[TRACE] HTML main text locations',JSON.stringify({
+   bodySize:html.length,example:html.indexOf('COMMA は自己対戦で鍛えた'),
+   sample:html.slice(Math.max(0,html.indexOf('COMMA は自己対戦で鍛えた')-250),html.indexOf('COMMA は自己対戦で鍛えた')+350)
+  }));
+  const js=await(await fetch(ORIGIN+'/app.mjs')).text();
+  for (const term of ['metadata =','metadata=','model_api','fetch(','/metadata','metadata.json','api.json','new RemotePlayer','RemotePlayer(']){
+   let idx=-1;let n=0;
+   while((idx=js.indexOf(term,idx+1))>=0&&n++<6) console.log('[TRACE] app',JSON.stringify({term,at:idx,fragment:js.slice(Math.max(0,idx-130),idx+260)}));
+  }
+  const remote=await(await fetch(ORIGIN+'/remote_player.mjs')).text();
+  console.log('[TRACE] remote_player',JSON.stringify({size:remote.length,start:remote.slice(0,4500)}));
+  const policy=await(await fetch(ORIGIN+'/policy.mjs')).text();
+  console.log('[TRACE] policy url',JSON.stringify([...policy.matchAll(/(?:https?:|wss?:)\/\/[^\s"'`<>\\]+/g)].map(x=>x[0]).slice(0,10)));
+ }catch(e){console.log('[TRACE] ERROR',String(e))}
+})();
