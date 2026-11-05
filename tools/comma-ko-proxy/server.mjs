@@ -42,7 +42,7 @@ async function dictionary() {
  return dict;
 }
 function reply(res,status,body,type) {
- res.writeHead(status,{'content-type':type,'cache-control':'public,max-age=600','x-robots-tag':'noindex','x-content-type-options':'nosniff'});
+ res.writeHead(status,{'content-type':type,'cache-control':'no-store','x-robots-tag':'noindex','x-content-type-options':'nosniff'});
  res.end(body);
 }
 const DROP=new Set(['connection','keep-alive','transfer-encoding','content-length','content-encoding','content-security-policy','content-security-policy-report-only','x-frame-options','strict-transport-security']);
@@ -76,6 +76,14 @@ http.createServer(async(req,res)=>{
   if(headers.location?.startsWith(ORIGIN)) headers.location=headers.location.slice(ORIGIN.length)||'/';
   if((r.headers.get('content-type')||'').includes('text/html')){
    let html=await r.text();
+   // Pre-render Korean strings on the server so the guide does not rely on
+   // client-side mutation observers or cached scripts.
+   try {
+     const mappings=JSON.parse(await readFile(new URL('./html-translations.json',import.meta.url),'utf8'));
+     for(const [ja,ko] of mappings) if(ja && ko) html=html.replaceAll(ja,ko);
+   } catch(e) { console.warn('COMMA Korean HTML translation unavailable:',String(e)); }
+   const warning='<aside lang="ko" role="status" style="margin:0;padding:12px 20px;background:#fff3d4;color:#543b00;font:14px/1.6 system-ui;text-align:center;border-bottom:1px solid #c4a65a;"><strong>비공식 한국어 번역 미리보기</strong> — COMMA 공식 AI 서버가 이 도메인의 접속을 허용하지 않아 여기서는 대전을 진행할 수 없습니다. 실제 플레이는 <a href="https://can-you-defeat-comma.pages.dev/" style="color:#815000;font-weight:700;text-decoration:underline">COMMA 공식 사이트</a>에서 이용해 주세요.</aside>';
+   html=html.replace(/<body([^>]*)>/i,(_,attrs)=>'<body'+attrs+'>'+warning);
    const script='<script src="/__ko__/patch.js" defer></script>';
    html=/<\/head>/i.test(html)?html.replace(/<\/head>/i,script+'</head>'):script+html;
    headers['content-type']='text/html;charset=utf-8';headers['cache-control']='no-store';
@@ -93,70 +101,3 @@ http.createServer(async(req,res)=>{
   else res.destroy(e);
  }
 }).listen(PORT,'0.0.0.0',()=>console.log('COMMA Korean gateway on port '+PORT));
-
-
-/* Temporary remote-host integration diagnostic: only inspect public references, never user requests */
-(async function investigateOrigin() {
- try {
-  const r=await fetch(ORIGIN,{signal:AbortSignal.timeout(13000)});
-  const html=await r.text();
-  const scriptSrc=[...html.matchAll(/<script\b[^>]*\bsrc=["']([^"']+)/ig)].map(x=>x[1]);
-  const scriptInline=[...html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/ig)].map(x=>x[1].slice(0,250));
-  console.log('[DIAG] upstream',{status:r.status,mime:r.headers.get('content-type'),scripts:scriptSrc,inline:scriptInline,head:html.slice(0,1000)});
-  for(const src of scriptSrc.slice(0,3)) {
-   const u=new URL(src,ORIGIN);
-   const js=await (await fetch(u,{signal:AbortSignal.timeout(14000)})).text();
-   const domains=[...new Set([...js.matchAll(/(?:https?:|wss?:)\/\/[^"'\s\x60<>\\]+/g)].map(x=>x[0]))].slice(0,25);
-   const connection=[...js.matchAll(/COMMAのサーバーに接続できませんでした/g)].map(x=>js.slice(Math.max(0,x.index-350),x.index+200)).slice(0,2);
-   const markers=[...js.matchAll(/(?:WebSocket|\.websocket|socket|apiUrl|API_URL|serverUrl|\.pages\.dev)/ig)].slice(0,15).map(x=>js.slice(Math.max(0,x.index-90),x.index+100));
-   console.log('[DIAG] asset',{src,size:js.length,domains,connection,markers});
-  }
- } catch (e) {console.warn('[DIAG] error', String(e));}
-})();
-
-(async function inspectApp() {
- try {
-  const r=await fetch(ORIGIN+'/app.mjs');const js=await r.text();
-  const imports=[...js.matchAll(/(?:import|from)\s*(?:\(|\s*)['\"\x60]([^'\"\x60]+)['\"\x60]/g)].map(a=>a[1]);
-  const terms=['https','http:','wss:','ws:','WebSocket','EventSource','fetch(','server','接続','COMMA','/api','endpoint','URL('];
-  console.log('[APP_DIAG] imports',JSON.stringify(imports.slice(0,30)));
-  for(const term of terms){
-   const ix=js.toLowerCase().indexOf(term.toLowerCase());
-   if(ix>=0) console.log('[APP_DIAG] token',JSON.stringify({term,ix,snippet:js.slice(Math.max(0,ix-180),ix+300)}));
-  }
-  console.log('[APP_DIAG] start',js.slice(0,1500));
- }catch(e){console.log('[APP_DIAG] ERROR',String(e));}
-})();
-
-(async function probeBackend() {
- try{
-  const html=await (await fetch(ORIGIN)).text();
-  console.log('[TRACE] HTML main text locations',JSON.stringify({
-   bodySize:html.length,example:html.indexOf('COMMA は自己対戦で鍛えた'),
-   sample:html.slice(Math.max(0,html.indexOf('COMMA は自己対戦で鍛えた')-250),html.indexOf('COMMA は自己対戦で鍛えた')+350)
-  }));
-  const js=await(await fetch(ORIGIN+'/app.mjs')).text();
-  for (const term of ['metadata =','metadata=','model_api','fetch(','/metadata','metadata.json','api.json','new RemotePlayer','RemotePlayer(']){
-   let idx=-1;let n=0;
-   while((idx=js.indexOf(term,idx+1))>=0&&n++<6) console.log('[TRACE] app',JSON.stringify({term,at:idx,fragment:js.slice(Math.max(0,idx-130),idx+260)}));
-  }
-  const remote=await(await fetch(ORIGIN+'/remote_player.mjs')).text();
-  console.log('[TRACE] remote_player',JSON.stringify({size:remote.length,start:remote.slice(0,4500)}));
-  const policy=await(await fetch(ORIGIN+'/policy.mjs')).text();
-  console.log('[TRACE] policy url',JSON.stringify([...policy.matchAll(/(?:https?:|wss?:)\/\/[^\s"'`<>\\]+/g)].map(x=>x[0]).slice(0,10)));
- }catch(e){console.log('[TRACE] ERROR',String(e))}
-})();
-
-(async function inspectCors() {
- try {
-  const resp=await fetch(ORIGIN+'/assets/metadata.json',{signal:AbortSignal.timeout(13000)});
-  const meta=await resp.json();
-  console.log('[NET_DIAG] metadata',{status:resp.status,model_api:meta.model_api,model_kind:meta.model_kind});
-  if(!meta.model_api) return;
-  const endpoint=meta.model_api.replace(/\/+$/,'')+'/v1/decide';
-  for(const origin of [ORIGIN,'https://comma-korean-web.onrender.com']){
-   const pre=await fetch(endpoint,{method:'OPTIONS',headers:{origin,'access-control-request-method':'POST','access-control-request-headers':'content-type'},signal:AbortSignal.timeout(12000)});
-   console.log('[NET_DIAG] preflight',{origin,status:pre.status,cors:pre.headers.get('access-control-allow-origin'),methods:pre.headers.get('access-control-allow-methods')});
-  }
- } catch(e) {console.log('[NET_DIAG] ERROR',String(e));}
-})();
