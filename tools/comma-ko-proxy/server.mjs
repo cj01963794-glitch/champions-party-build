@@ -93,3 +93,23 @@ http.createServer(async(req,res)=>{
   else res.destroy(e);
  }
 }).listen(PORT,'0.0.0.0',()=>console.log('COMMA Korean gateway on port '+PORT));
+
+
+/* Temporary remote-host integration diagnostic: only inspect public references, never user requests */
+(async function investigateOrigin() {
+ try {
+  const r=await fetch(ORIGIN,{signal:AbortSignal.timeout(13000)});
+  const html=await r.text();
+  const scriptSrc=[...html.matchAll(/<script\b[^>]*\bsrc=["']([^"']+)/ig)].map(x=>x[1]);
+  const scriptInline=[...html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/ig)].map(x=>x[1].slice(0,250));
+  console.log('[DIAG] upstream',{status:r.status,mime:r.headers.get('content-type'),scripts:scriptSrc,inline:scriptInline,head:html.slice(0,1000)});
+  for(const src of scriptSrc.slice(0,3)) {
+   const u=new URL(src,ORIGIN);
+   const js=await (await fetch(u,{signal:AbortSignal.timeout(14000)})).text();
+   const domains=[...new Set([...js.matchAll(/(?:https?:|wss?:)\/\/[^"'\s\x60<>\\]+/g)].map(x=>x[0]))].slice(0,25);
+   const connection=[...js.matchAll(/COMMAのサーバーに接続できませんでした/g)].map(x=>js.slice(Math.max(0,x.index-350),x.index+200)).slice(0,2);
+   const markers=[...js.matchAll(/(?:WebSocket|\.websocket|socket|apiUrl|API_URL|serverUrl|\.pages\.dev)/ig)].slice(0,15).map(x=>js.slice(Math.max(0,x.index-90),x.index+100));
+   console.log('[DIAG] asset',{src,size:js.length,domains,connection,markers});
+  }
+ } catch (e) {console.warn('[DIAG] error', String(e));}
+})();
