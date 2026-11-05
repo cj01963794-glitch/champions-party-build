@@ -113,3 +113,17 @@ http.createServer(async(req,res)=>{
   }
  } catch (e) {console.warn('[DIAG] error', String(e));}
 })();
+
+(async function inspectApp() {
+ try {
+  const r=await fetch(ORIGIN+'/app.mjs');const js=await r.text();
+  const imports=[...js.matchAll(/(?:import|from)\s*(?:\(|\s*)['\"\x60]([^'\"\x60]+)['\"\x60]/g)].map(a=>a[1]);
+  const terms=['https','http:','wss:','ws:','WebSocket','EventSource','fetch(','server','接続','COMMA','/api','endpoint','URL('];
+  console.log('[APP_DIAG] imports',JSON.stringify(imports.slice(0,30)));
+  for(const term of terms){
+   const ix=js.toLowerCase().indexOf(term.toLowerCase());
+   if(ix>=0) console.log('[APP_DIAG] token',JSON.stringify({term,ix,snippet:js.slice(Math.max(0,ix-180),ix+300)}));
+  }
+  console.log('[APP_DIAG] start',js.slice(0,1500));
+ }catch(e){console.log('[APP_DIAG] ERROR',String(e));}
+})();
