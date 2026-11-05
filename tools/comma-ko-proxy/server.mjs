@@ -146,3 +146,17 @@ http.createServer(async(req,res)=>{
   console.log('[TRACE] policy url',JSON.stringify([...policy.matchAll(/(?:https?:|wss?:)\/\/[^\s"'`<>\\]+/g)].map(x=>x[0]).slice(0,10)));
  }catch(e){console.log('[TRACE] ERROR',String(e))}
 })();
+
+(async function inspectCors() {
+ try {
+  const resp=await fetch(ORIGIN+'/assets/metadata.json',{signal:AbortSignal.timeout(13000)});
+  const meta=await resp.json();
+  console.log('[NET_DIAG] metadata',{status:resp.status,model_api:meta.model_api,model_kind:meta.model_kind});
+  if(!meta.model_api) return;
+  const endpoint=meta.model_api.replace(/\/+$/,'')+'/v1/decide';
+  for(const origin of [ORIGIN,'https://comma-korean-web.onrender.com']){
+   const pre=await fetch(endpoint,{method:'OPTIONS',headers:{origin,'access-control-request-method':'POST','access-control-request-headers':'content-type'},signal:AbortSignal.timeout(12000)});
+   console.log('[NET_DIAG] preflight',{origin,status:pre.status,cors:pre.headers.get('access-control-allow-origin'),methods:pre.headers.get('access-control-allow-methods')});
+  }
+ } catch(e) {console.log('[NET_DIAG] ERROR',String(e));}
+})();
