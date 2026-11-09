@@ -1,4 +1,4 @@
-# Free preview: saved team edits and battle records can disappear after restart/redeploy.
+# Public, password-free preview; saved games are ephemeral on Render Free.
 services:
   - type: web
     name: frontier-battle-lab-web
@@ -7,7 +7,7 @@ services:
     plan: free
     healthCheckPath: /healthz
     envVars:
-      - key: FRONTIER_PASSWORD
-        sync: false
       - key: FRONTIER_WORKERS
         value: "1"
+      - key: FRONTIER_DATA
+        value: "/var/data"

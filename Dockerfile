@@ -12,4 +12,4 @@ RUN node -e "const fs=require('node:fs'),z=require('node:zlib');fs.writeFileSync
 ENV NODE_ENV=production FRONTIER_HOST=0.0.0.0 FRONTIER_WORKERS=1 FRONTIER_DATA=/var/data
 EXPOSE 10000
 ENTRYPOINT ["/app/docker-entrypoint.sh"]
-CMD ["node", "server.mjs"]
+CMD ["node","--expose-gc","--max-old-space-size=256","server.mjs"]
