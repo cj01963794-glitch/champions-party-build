@@ -1,91 +1,12 @@
-# 포켓몬 챔피언즈 파티 구축 철학
+# Frontier Battle Lab — Render deployment
 
-포켓몬 챔피언즈에서 **강한 파티란 무엇인가**, 그리고 **어떤 기준으로 파티를 설계하고 평가할 것인가**를 지속적으로 발전시키기 위한 독립 문서 저장소입니다.
+This branch is isolated from the analysis/research default branch.
+It contains the unchanged original Frontier battle engine and bundled web application 1.5 M-C + 423 ranker teams.
 
-이 저장소는 기존 `champions-singles-lab`(배틀 AI / 계산기 개발)과 별개입니다. 게임 데이터나 특정 파티의 정답을 저장하는 곳이 아니라, 파티 구축에 적용할 **판단 원칙과 사고 과정**을 기록합니다.
+* `app.tar.br`: brotli-compressed tar of web app JS, CSS, HTML, team roster, original runtime adapters.
+* `frontier.tar.gz`: exact Git blob shared with the existing research archive, SHA256 556c58cc4d55c05d7aef48785bf4907242fb0fbdc1ab5c402dbc1a72b6b9aabf.
+* `Dockerfile`: builds node 24 runtime; no network downloads at startup.
+* `render.yaml`: free preview blueprint. Free disk is ephemeral; persistent battle records need a separate paid persistent-disk plan.
 
-## 문서 안내
-
-- [`docs/TEAM_BUILDING_PHILOSOPHY.md`](docs/TEAM_BUILDING_PHILOSOPHY.md): 현재 채택한 파티 구축 철학과 평가 기준 (수정 대상)
-- **[모노의 M-A → M-B → M6 연속 관찰 (v1.7)](docs/MONO_MA_MB_M6_CONTINUITY.md)**: M6 최종 29위 팀을 앞선 두 구축 기사와 비교. 한카리아스·플라엣테·스카프 로토무의 반복과 M6에서 달라진 기술/역할은 관찰하되, 설명 없는 실제 선출·구축 경위는 추측으로 채우지 않음.
-- [모노 M6 X 게시글 및 게임 화면 3장 **텍스트 전사**](conversations/2026-11-04-mono-m6-rank29-twitter-screenshots-transcription.md): 6마리의 도구·특성·기술·실수치/SP와 최종 순위 기록. **이미지 원본은 GitHub에 업로드되지 않음.**
-- **[모노 M-A→M-B 세계 1위→3위 구축 변화와 한계 (v1.6)](docs/MONO_MA_TO_MB_BUILD_EVOLUTION.md)**: 스카프 워시로토무·HB 한카리아스·메가플라엣테 코어를 유지하면서, 공격형 메가핫삼→금속코트 HB 일반 핫삼, 메가마폭시, 생구 따라큐로 역할 재배치. **철벽·바디프레스 메타그로스/입치트**라는 저자가 인정한 실패를 포함해 기술배치별 맞물림을 연구.
-- **[모노 시즌3 레귤 M-B 레이팅 2597 최종 3위 구축글 원문](conversations/2026-11-04-mono-champions-s3-reg-mb-rank3-user-original.md)**: 게시일 표기 2026-07-08, 사용자가 제공한 전문을 별도 보존.
-- **[모노의 레귤 M-A 세계 1위 구축 철학 (v1.5)](docs/MONO_REG_MA_RANK1_BUILD_PHILOSOPHY.md)**: 한카리아스·메가플라엣테·메가핫삼의 강한 축 → 스카프 워시로토무의 속도·대면조작·피해 누적 연결 → 띠 파라블레이즈의 독립 대면 승리 경로 → 메가아쿠스타의 선출 단계 억제 가설까지, 6→3 선출과 실제 공격 기회를 중심으로 설계하는 방법론. **눈파티와 더불어 사용자가 명시적으로 지향하도록 지정.**
-- **[모노의 시즌2·레귤레이션 M-A 레이팅 2564 최종 1위 구축글 원문 전체](conversations/2026-11-04-mono-champions-s2-reg-ma-rank1-user-original.md)**: 사용자 제공 전문 보존. 2026-06-18 모노 작성으로 표기됨. 게시글 속 실전 성적과 기술 세트는 별도 독립 검증 대상.
-- **[사이클의 창 — 한카리아스↔메가플라엣테형 상호 교체강요를 지향 목표로 채택 (v1.4)](docs/CYCLE_SPEAR_AND_RECIPROCAL_PRESSURE.md)**: 유리대면이 상대 교체를 압박하고, 그 교체로 창의 강한 타격 기회를 마련해 반감 후내밀기까지 마모시킨 뒤 다시 유리대면의 위력을 키우는 **반복 피해 누적**을 목표로 삼음. 상대 정상 대응·피해·선출·실제 착지 수순을 검증.
-- [사용자가 제공한 '사이클의 창이란' **원문 전체**](conversations/2026-11-04-cycle-spear-original-user-provided.md): MB 시절 작성된 글로 사용자 소개. 작성일·URL·작성자는 별도 미확인, 본문은 분리 보존.
-- **[눈파티 플레이 성향 — 대면 안정성·전략 읽기·화력·형태 다양성·운 억제 (v1.3)](docs/NOONPARTY_PLAYSTYLE_PHILOSOPHY.md)**: 사용자 제공 나무위키 성향을 앞으로 지향할 철학으로 채택. 타입 상성 보완은 실제 3v3 전개로 검증, 강하고 다양한 형태와 실전 화력 중시, 운 의존을 최소화하되 수비/사이클·확률 기술의 합리적 활용은 허용.
-- **[메리랜드 5편의 발전 과정에서 추출한 구축 철학 (v1.2)](docs/MERRYLAND_BUILD_PROCESS_PHILOSOPHY.md)**: 2017 비나리자→S3 메리랜드→S8→S12→S13, 강한 압박 발굴·상대 대응 역이용·기점과 실제 승리 분리 검증·다중 승리 경로·3v3 선출·메타 적합성·재설계의 반복 과정. 사용자 요청으로 추구할 방법론에 편입, 포챔스 실전 검증은 별도.
-- **[포켓몬 조합의 기준선 비교 필수 원칙](docs/COMBINATION_BASELINE_PRINCIPLE.md)**: 모든 기준 포켓몬 A의 동반 조합 분석에서 원래 흔한 B+C를 A 특유의 핵심 조합으로 오인하지 않도록, A 비채용군의 B+C 동시 채용률·기대 대비로 검증.
-- [`docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md`](docs/archetypes/MOODY_GENGAR_SCOVILLAIN.md): 필수 전개파티 05 — 팬텀·변덕쟁이 스코빌런·메가갸라도스 및 선출 위장
-- [`docs/archetypes/BATON_MEGA_CLEFABLE.md`](docs/archetypes/BATON_MEGA_CLEFABLE.md): 필수 전개파티 04 — 올리르바·클레스퍼트라·메가픽시 바톤 및 단독 랭크업 변형군
-- [`docs/archetypes/REVIVAL_TRADE_PAWMOT.md`](docs/archetypes/REVIVAL_TRADE_PAWMOT.md): 필수 전개파티 03 — 다크펫·빠르모트 부활·성묘/총대장 및 변형군
-- [`docs/archetypes/PSYCHIC_TERRAIN_BLASTOISE.md`](docs/archetypes/PSYCHIC_TERRAIN_BLASTOISE.md): 필수 전개파티 02 — 에써르·거북왕 사이코필드 및 혼합군
-- [`docs/archetypes/RAIN_TEAM.md`](docs/archetypes/RAIN_TEAM.md): 필수 전개파티 01 — 사용자 제공 M6 비파티 코어와 변형군
-- [`docs/REQUIRED_SETUP_MATCHUPS.md`](docs/REQUIRED_SETUP_MATCHUPS.md): 출현 빈도와 무관하게 반드시 압도해야 할 정형 전개파티 검증
-- [`docs/COUNTERMEASURE_MARGINAL_VALUE.md`](docs/COUNTERMEASURE_MARGINAL_VALUE.md): 포켓몬/기술/선출 슬롯의 기회비용과 대책의 순증가 가치 분석
-- [`docs/SET_VARIANT_ANALYSIS.md`](docs/SET_VARIANT_ANALYSIS.md): 상대 기술·도구·수치 변형의 영향도와 기회비용 분석
-- [`docs/MATCHUP_AUDIT_PROTOCOL.md`](docs/MATCHUP_AUDIT_PROTOCOL.md): 모든 주요 상대 파티에 적용할 선출·승리 플랜 검증 절차
-- [`docs/MATCHUP_REGISTRY.md`](docs/MATCHUP_REGISTRY.md): 사용자 제공 예정인 파티 목록의 검토 현황
-- [`docs/VALIDATION_FRAMEWORK.md`](docs/VALIDATION_FRAMEWORK.md): 기존 랭커 파티 대비 우월성 검증 프레임워크 (AI 제안/검토 전)
-- [`docs/DECISION_LOG.md`](docs/DECISION_LOG.md): 피드백·합의·보류 사항과 판단 이유
-- [`docs/RECORDING_POLICY.md`](docs/RECORDING_POLICY.md): 대화 원문 보존과 문서 개정 방법
-- [`conversations/`](conversations/): 날짜·주제별 대화 원문 아카이브 (과거 기록 보존)
-- [`conversations/2026-10-28-initial-discussion.md`](conversations/2026-10-28-initial-discussion.md): 2026-10-28 최초 대화 기록
-- [`CHANGELOG.md`](CHANGELOG.md): 문서 버전과 변경 이력
-
-## 최신 사고력 검토와 기록 상태
-
-- [2026-10-29 사용자 B안 7항목 피드백 원문](conversations/2026-10-29-team-b-seven-point-feedback-verbatim.md)
-- [2026-10-29 B안 실패 반성문 전문](conversations/2026-10-29-team-b-self-criticism-complete.md)
-- [M6 최종 16위 리자그로스 출처 확인/6마리 구성](docs/matchups/OFFENSE_001_KEVIN_M6_CHARIZARD_METAGROSS.md)
-
-**과거 기록의 한계:** 이전 `conversations/` 파일 중 일부는 원문, 일부는 원문 발췌+어시스턴트 요약이다. 이 저장소가 과거 모든 채팅 메시지를 축자 보존한다고 주장할 수 없다. 기록은 GitHub 쓰기를 **실제로 실행했을 때만** 저장된다.
-
-## 운영 원칙
-
-1. **conversations는 원문, docs는 사고방식의 현재 버전.** 두 계층을 분리한다.
-2. 사용자와 어시스턴트의 실제 논의 흐름, 반론, 수정 이유를 가능한 한 원문 그대로 보존한다.
-3. 사용자가 승인한 방향과 AI가 일방적으로 제안한 가설을 구별한다.
-4. 피드백이 생기면 핵심 원칙을 검토하고, 변경 이유를 `DECISION_LOG.md`에 기록한다.
-5. 기존 대화 기록은 소급해 수정하지 않는다. 현재 기준과 과거 대화가 달라질 수 있다.
-6. 특정 포켓몬이나 메타의 사례를 일반 법칙으로 과도하게 확장하지 않는다.
-7. 원칙은 실제 파티 검증과 사용자 피드백을 통해 개정되는 작업 기준이다.
-
-**중요:** GitHub 쓰기 작업을 실제 수행해야 저장된다. 메시지마다 자동으로 백업하거나 채팅 종료 후 백그라운드에서 기록하는 기능은 현재 구성되어 있지 않다.
-
-
-- **[지정 9종 중 2종 이상 동시 채용 조사](data/gamewith_m6_top1000_2026-10-30/analysis/nine_target_overlap_2026-10-30/README.md)** — 완전 공개 285개 중 111개 파티, 정확히 2종 103개·3종 8개, 36쌍 빈도/기준선과 원본 6마리·랭크 목록.
-## M6 파티 구성 통계 및 검토 범위
-
-- **[아홉 포켓몬별 조합 검토 범위·기준선 비교·분석 코멘트](data/gamewith_m6_top1000_2026-10-30/analysis/nine_target_scopes_2026-10-30/README.md)** — 갑주무사, 리자몽, 루카리오, 망나뇽, 메타그로스, 보만다, 팬텀, 거북왕, 플라엣테(영원). 6마리 공개 285개 파티의 B+C 비채용군 비교, 3+3 뒷면, 누락된 파티를 수록.
-- [M6 통합 조합 통계 데이터베이스](data/gamewith_m6_top1000_2026-10-30/analysis/README.md): 2·3마리 조합 빈도, 조건부 채용 통계, 원본 6마리 연결.
-
-## 파티 구축용 수치 데이터베이스
-
-- [포켓몬 챔피언즈 M-7 싱글 결정력·내구 조회 DB](data/pokemon_champions_2026-10-29/README.md): 2026-10-28 사용 통계를 포함한 346종·3,417개 기술 항목의 사전 계산 수치, 4단계 내구 및 스피드, 빠른 검색 인덱스.
-- [현재 연구 대상 20종 간편 조회](data/pokemon_champions_2026-10-29/hotset_project.json): 포푸니크·메가메타그로스·개굴닌자·마스카나·에이스번 등. 해당 수치들은 **파티 채용이나 유불리 판단이 아닌 참고 자료**.
-- **정확성 유의:** 정적 기술의 기본 결정력만 자동 산출·저장. 상태 조건부 기술/특성·대면별 실제 피해량은 별도 검증. 실전 피해량과 결정력 지표는 다름.
-
-초기 작성일: **2026-10-28** (KST)
-
-## 2026-11-03 메리랜드 구축 연구 대화 아카이브
-
-- [7세대 S8·S12 사용자 제공 구축글 본문 중심 전사](conversations/2026-11-03-merryland-s8-s12-user-posts.md)
-- [7세대 S13 및 포챔스 시즌1 사용자 제공 구축글 본문 중심 전사](conversations/2026-11-03-merryland-s13-champions-s1-user-posts.md)
-- [이번 채팅의 발화 흐름·어시스턴트 분석 요약·포챔스 적용 사고 과정](conversations/2026-11-03-merryland-research-dialogue-and-framework.md)
-- [어시스턴트 답변 텍스트 1/2 — S8·S12·S13](conversations/2026-11-03-merryland-assistant-replies-part1.md)
-- [어시스턴트 답변 텍스트 2/2 — 구축 사고 과정·포챔스 S1](conversations/2026-11-03-merryland-assistant-replies-part2.md)
-
-- [2026-11-03 눈파티 성향에 관한 사용자 제공 나무위키 발췌](conversations/2026-11-03-noonparty-namuwiki-style-user-source.md)
-
-> 원문 전사는 블로그 복사본의 장식 링크·서식을 일부 정리한 기록이며, 어시스턴트 응답의 상세 요약과 별도의 답변 텍스트 기록을 모두 제공한다. 일부 UI 도식은 Markdown으로 바꾸었다. 사용자 제공 사실과 검증 전 구축 가설을 구분한다.
-
-## 2026-11-03 메리랜드 초기 기원 추가 자료
-
-- [2017-05-03 SM S3 레이팅 2023 비나리자 구축글 본문](conversations/2026-11-03-original-binari-charizard-sm-s3-2017-05-03.md)
-- [2017-05-16 SM S3 레이팅 2121 메리랜드 구축글 본문](conversations/2026-11-03-merryland-sm-s3-2017-05-16.md)
-- [비나리자에서 메리랜드로 발전한 과정의 연구 메모 (검증 전)](conversations/2026-11-03-early-merryland-origin-analysis.md)
-
-> 위 글의 실제 작성 순서는 비나리자(5월 3일) → 메리랜드(5월 16일) → USUM S8 → S12 → S13 → 포챔스 시즌1 순서임. 글의 블로그 서식과 이미지·선출 도식 중 텍스트로 재현되지 않은 부분은 별도 표시함.
+Runtime requires environment variable FRONTIER_PASSWORD (at least 12 characters). Browser HTTP Basic authentication username: lab.
+Health endpoint: /healthz. App records: /var/data/frontier.sqlite.
